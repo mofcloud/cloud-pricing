@@ -1,0 +1,626 @@
+provider,region,region_name,country,scope,usd_hour,usd_month
+AWS,af-south-1,Cape Town,ZA,eip_bound,0.005,3.65
+AWS,af-south-1,Cape Town,ZA,eip_idle,0.005,3.65
+AWS,af-south-1-los-1,Lagos,NG,eip_bound,0.005,3.65
+AWS,af-south-1-los-1,Lagos,NG,eip_idle,0.005,3.65
+AWS,ap-east-1,Hong Kong,HK,eip_bound,0.005,3.65
+AWS,ap-east-1,Hong Kong,HK,eip_idle,0.005,3.65
+AWS,ap-east-2,Taipei,TW,eip_bound,0.005,3.65
+AWS,ap-east-2,Taipei,TW,eip_idle,0.005,3.65
+AWS,ap-northeast-1,Tokyo,JP,eip_bound,0.005,3.65
+AWS,ap-northeast-1,Tokyo,JP,eip_idle,0.005,3.65
+AWS,ap-northeast-1-tpe-1,Taipei,TW,eip_bound,0.005,3.65
+AWS,ap-northeast-1-tpe-1,Taipei,TW,eip_idle,0.005,3.65
+AWS,ap-northeast-2,Seoul,KR,eip_bound,0.005,3.65
+AWS,ap-northeast-2,Seoul,KR,eip_idle,0.005,3.65
+AWS,ap-northeast-3,Osaka,JP,eip_bound,0.005,3.65
+AWS,ap-northeast-3,Osaka,JP,eip_idle,0.005,3.65
+AWS,ap-south-1,Mumbai,IN,eip_bound,0.005,3.65
+AWS,ap-south-1,Mumbai,IN,eip_idle,0.005,3.65
+AWS,ap-south-1-ccu-1,Kolkata,IN,eip_bound,0.005,3.65
+AWS,ap-south-1-ccu-1,Kolkata,IN,eip_idle,0.005,3.65
+AWS,ap-south-1-del-1,Delhi,IN,eip_bound,0.005,3.65
+AWS,ap-south-1-del-1,Delhi,IN,eip_idle,0.005,3.65
+AWS,ap-south-2,Hyderabad,IN,eip_bound,0.005,3.65
+AWS,ap-south-2,Hyderabad,IN,eip_idle,0.005,3.65
+AWS,ap-southeast-1,Singapore,SG,eip_bound,0.005,3.65
+AWS,ap-southeast-1,Singapore,SG,eip_idle,0.005,3.65
+AWS,ap-southeast-1-bkk-1,Bangkok,TH,eip_bound,0.005,3.65
+AWS,ap-southeast-1-bkk-1,Bangkok,TH,eip_idle,0.005,3.65
+AWS,ap-southeast-1-han-1,Hanoi,VN,eip_bound,0.005,3.65
+AWS,ap-southeast-1-han-1,Hanoi,VN,eip_idle,0.005,3.65
+AWS,ap-southeast-1-mnl-1,Manila,PH,eip_bound,0.005,3.65
+AWS,ap-southeast-1-mnl-1,Manila,PH,eip_idle,0.005,3.65
+AWS,ap-southeast-2,Sydney,AU,eip_bound,0.005,3.65
+AWS,ap-southeast-2,Sydney,AU,eip_idle,0.005,3.65
+AWS,ap-southeast-2-akl-1,Auckland,NZ,eip_bound,0.005,3.65
+AWS,ap-southeast-2-akl-1,Auckland,NZ,eip_idle,0.005,3.65
+AWS,ap-southeast-2-per-1,Perth,AU,eip_bound,0.005,3.65
+AWS,ap-southeast-2-per-1,Perth,AU,eip_idle,0.005,3.65
+AWS,ap-southeast-3,Jakarta,ID,eip_bound,0.005,3.65
+AWS,ap-southeast-3,Jakarta,ID,eip_idle,0.005,3.65
+AWS,ap-southeast-4,Melbourne,AU,eip_bound,0.005,3.65
+AWS,ap-southeast-4,Melbourne,AU,eip_idle,0.005,3.65
+AWS,ap-southeast-5,Kuala Lumpur,MY,eip_bound,0.005,3.65
+AWS,ap-southeast-5,Kuala Lumpur,MY,eip_idle,0.005,3.65
+AWS,ap-southeast-6,Auckland,NZ,eip_bound,0.005,3.65
+AWS,ap-southeast-6,Auckland,NZ,eip_idle,0.005,3.65
+AWS,ap-southeast-7,Bangkok,TH,eip_bound,0.005,3.65
+AWS,ap-southeast-7,Bangkok,TH,eip_idle,0.005,3.65
+AWS,ca-central-1,Montreal,CA,eip_bound,0.005,3.65
+AWS,ca-central-1,Montreal,CA,eip_idle,0.005,3.65
+AWS,ca-west-1,Calgary,CA,eip_bound,0.005,3.65
+AWS,ca-west-1,Calgary,CA,eip_idle,0.005,3.65
+AWS,cn-north-1,Beijing,CN,eip_bound,0.004944,3.609
+AWS,cn-north-1,Beijing,CN,eip_idle,0.004944,3.609
+AWS,cn-north-1-pkx-1,cn-north-1-pkx-1,,eip_bound,0.004944,3.609
+AWS,cn-north-1-pkx-1,cn-north-1-pkx-1,,eip_idle,0.004944,3.609
+AWS,cn-northwest-1,Yinchuan,CN,eip_bound,0.004944,3.609
+AWS,cn-northwest-1,Yinchuan,CN,eip_idle,0.004944,3.609
+AWS,eu-central-1,Frankfurt,DE,eip_bound,0.005,3.65
+AWS,eu-central-1,Frankfurt,DE,eip_idle,0.005,3.65
+AWS,eu-central-1-ath-1,Athens,GR,eip_bound,0.005,3.65
+AWS,eu-central-1-ath-1,Athens,GR,eip_idle,0.005,3.65
+AWS,eu-central-1-ham-1,Hamburg,DE,eip_bound,0.005,3.65
+AWS,eu-central-1-ham-1,Hamburg,DE,eip_idle,0.005,3.65
+AWS,eu-central-1-ist-1,Istanbul,TR,eip_bound,0.005,3.65
+AWS,eu-central-1-ist-1,Istanbul,TR,eip_idle,0.005,3.65
+AWS,eu-central-1-waw-1,Warsaw,PL,eip_bound,0.005,3.65
+AWS,eu-central-1-waw-1,Warsaw,PL,eip_idle,0.005,3.65
+AWS,eu-central-2,Zurich,CH,eip_bound,0.005,3.65
+AWS,eu-central-2,Zurich,CH,eip_idle,0.005,3.65
+AWS,eu-north-1,Stockholm,SE,eip_bound,0.005,3.65
+AWS,eu-north-1,Stockholm,SE,eip_idle,0.005,3.65
+AWS,eu-north-1-cph-1,Copenhagen,DK,eip_bound,0.005,3.65
+AWS,eu-north-1-cph-1,Copenhagen,DK,eip_idle,0.005,3.65
+AWS,eu-north-1-hel-1,Helsinki,FI,eip_bound,0.005,3.65
+AWS,eu-north-1-hel-1,Helsinki,FI,eip_idle,0.005,3.65
+AWS,eu-south-1,Milan,IT,eip_bound,0.005,3.65
+AWS,eu-south-1,Milan,IT,eip_idle,0.005,3.65
+AWS,eu-south-2,Madrid,ES,eip_bound,0.005,3.65
+AWS,eu-south-2,Madrid,ES,eip_idle,0.005,3.65
+AWS,eu-west-1,Dublin,IE,eip_bound,0.005,3.65
+AWS,eu-west-1,Dublin,IE,eip_idle,0.005,3.65
+AWS,eu-west-2,London,GB,eip_bound,0.005,3.65
+AWS,eu-west-2,London,GB,eip_idle,0.005,3.65
+AWS,eu-west-3,Paris,FR,eip_bound,0.005,3.65
+AWS,eu-west-3,Paris,FR,eip_idle,0.005,3.65
+AWS,il-central-1,Tel Aviv,IL,eip_bound,0.005,3.65
+AWS,il-central-1,Tel Aviv,IL,eip_idle,0.005,3.65
+AWS,me-central-1,Dubai,AE,eip_bound,0.005,3.65
+AWS,me-central-1,Dubai,AE,eip_idle,0.005,3.65
+AWS,me-south-1,Manama,BH,eip_bound,0.005,3.65
+AWS,me-south-1,Manama,BH,eip_idle,0.005,3.65
+AWS,me-south-1-mct-1,Muscat,OM,eip_bound,0.005,3.65
+AWS,me-south-1-mct-1,Muscat,OM,eip_idle,0.005,3.65
+AWS,mx-central-1,Mexico City,MX,eip_bound,0.005,3.65
+AWS,mx-central-1,Mexico City,MX,eip_idle,0.005,3.65
+AWS,sa-east-1,Sao Paulo,BR,eip_bound,0.005,3.65
+AWS,sa-east-1,Sao Paulo,BR,eip_idle,0.005,3.65
+AWS,us-east-1,N. Virginia,US,eip_bound,0.005,3.65
+AWS,us-east-1,N. Virginia,US,eip_idle,0.005,3.65
+AWS,us-east-1-atl-1,Atlanta,US,eip_bound,0.005,3.65
+AWS,us-east-1-atl-1,Atlanta,US,eip_idle,0.005,3.65
+AWS,us-east-1-bog-1,us-east-1-bog-1,,eip_bound,0.005,3.65
+AWS,us-east-1-bog-1,us-east-1-bog-1,,eip_idle,0.005,3.65
+AWS,us-east-1-bos-1,Boston,US,eip_bound,0.005,3.65
+AWS,us-east-1-bos-1,Boston,US,eip_idle,0.005,3.65
+AWS,us-east-1-bue-1,Buenos Aires,AR,eip_bound,0.005,3.65
+AWS,us-east-1-bue-1,Buenos Aires,AR,eip_idle,0.005,3.65
+AWS,us-east-1-chi-1,Chicago,US,eip_bound,0.005,3.65
+AWS,us-east-1-chi-1,Chicago,US,eip_idle,0.005,3.65
+AWS,us-east-1-dfw-1,Dallas,US,eip_bound,0.005,3.65
+AWS,us-east-1-dfw-1,Dallas,US,eip_idle,0.005,3.65
+AWS,us-east-1-iah-1,Houston,US,eip_bound,0.005,3.65
+AWS,us-east-1-iah-1,Houston,US,eip_idle,0.005,3.65
+AWS,us-east-1-lim-1,Lima,PE,eip_bound,0.005,3.65
+AWS,us-east-1-lim-1,Lima,PE,eip_idle,0.005,3.65
+AWS,us-east-1-mci-1,Kansas City,US,eip_bound,0.005,3.65
+AWS,us-east-1-mci-1,Kansas City,US,eip_idle,0.005,3.65
+AWS,us-east-1-mia-1,Miami,US,eip_bound,0.005,3.65
+AWS,us-east-1-mia-1,Miami,US,eip_idle,0.005,3.65
+AWS,us-east-1-msp-1,Minneapolis,US,eip_bound,0.005,3.65
+AWS,us-east-1-msp-1,Minneapolis,US,eip_idle,0.005,3.65
+AWS,us-east-1-nyc-1,New York,US,eip_bound,0.005,3.65
+AWS,us-east-1-nyc-1,New York,US,eip_idle,0.005,3.65
+AWS,us-east-1-phl-1,Philadelphia,US,eip_bound,0.005,3.65
+AWS,us-east-1-phl-1,Philadelphia,US,eip_idle,0.005,3.65
+AWS,us-east-1-qro-1,Queretaro,MX,eip_bound,0.005,3.65
+AWS,us-east-1-qro-1,Queretaro,MX,eip_idle,0.005,3.65
+AWS,us-east-1-scl-1,Santiago,CL,eip_bound,0.005,3.65
+AWS,us-east-1-scl-1,Santiago,CL,eip_idle,0.005,3.65
+AWS,us-east-2,Ohio,US,eip_bound,0.005,3.65
+AWS,us-east-2,Ohio,US,eip_idle,0.005,3.65
+AWS,us-gov-east-1,N. Virginia,US,eip_bound,0.005,3.65
+AWS,us-gov-east-1,N. Virginia,US,eip_idle,0.005,3.65
+AWS,us-gov-west-1,Oregon,US,eip_bound,0.005,3.65
+AWS,us-gov-west-1,Oregon,US,eip_idle,0.005,3.65
+AWS,us-west-1,Silicon Valley,US,eip_bound,0.005,3.65
+AWS,us-west-1,Silicon Valley,US,eip_idle,0.005,3.65
+AWS,us-west-2,Oregon,US,eip_bound,0.005,3.65
+AWS,us-west-2,Oregon,US,eip_idle,0.005,3.65
+AWS,us-west-2-den-1,Denver,US,eip_bound,0.005,3.65
+AWS,us-west-2-den-1,Denver,US,eip_idle,0.005,3.65
+AWS,us-west-2-las-1,Las Vegas,US,eip_bound,0.005,3.65
+AWS,us-west-2-las-1,Las Vegas,US,eip_idle,0.005,3.65
+AWS,us-west-2-lax-1,Los Angeles,US,eip_bound,0.005,3.65
+AWS,us-west-2-lax-1,Los Angeles,US,eip_idle,0.005,3.65
+AWS,us-west-2-pdx-1,Portland,US,eip_bound,0.005,3.65
+AWS,us-west-2-pdx-1,Portland,US,eip_idle,0.005,3.65
+AWS,us-west-2-phx-1,Phoenix,US,eip_bound,0.005,3.65
+AWS,us-west-2-phx-1,Phoenix,US,eip_idle,0.005,3.65
+AWS,us-west-2-sea-1,Seattle,US,eip_bound,0.005,3.65
+AWS,us-west-2-sea-1,Seattle,US,eip_idle,0.005,3.65
+AlibabaCloud,ap-northeast-1,Tokyo,JP,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-northeast-2,Seoul,KR,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-southeast-1,Singapore,SG,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-southeast-3,Kuala Lumpur,MY,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-southeast-5,Jakarta,ID,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-southeast-6,Manila,PH,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-southeast-7,Bangkok,TH,eip_idle,0.002996,2.1873
+AlibabaCloud,ap-southeast-8,Jakarta,ID,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-beijing,Beijing,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-chengdu,Chengdu,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-guangzhou,Guangzhou,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-hangzhou,Hangzhou,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-hangzhou-acdr-ut-1,Hangzhou,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-hangzhou-acdr-ut-3,Hangzhou,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-heyuan,Heyuan,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-heyuan-acdr-1,Heyuan,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-hongkong,Hong Kong,HK,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-huhehaote,Hohhot,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-qingdao,Qingdao,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-qingdao-acdr-ut-1,Qingdao,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-shanghai,Shanghai,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-shenzhen,Shenzhen,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-wuhan-lr,Wuhan,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-wulanchabu,Ulanqab,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-wulanchabu-acdr-1,Ulanqab,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-wulanchabu-acdr-ut-1,Ulanqab,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-wulanchabu-gic-1,Ulanqab,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-zhangjiakou,Zhangjiakou,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,cn-zhongwei,Zhongwei,CN,eip_idle,0.002996,2.1873
+AlibabaCloud,eu-central-1,Frankfurt,DE,eip_idle,0.002996,2.1873
+AlibabaCloud,eu-west-1,London,GB,eip_idle,0.002996,2.1873
+AlibabaCloud,eu-west-2,London,GB,eip_idle,0.002996,2.1873
+AlibabaCloud,eu-west-3,eu-west-3,,eip_idle,0.002996,2.1873
+AlibabaCloud,me-east-1,Dubai,AE,eip_idle,0.002996,2.1873
+AlibabaCloud,na-south-1,Mexico City,MX,eip_idle,0.002996,2.1873
+AlibabaCloud,sa-east-1,Sao Paulo,BR,eip_idle,0.002996,2.1873
+AlibabaCloud,us-east-1,N. Virginia,US,eip_idle,0.002996,2.1873
+AlibabaCloud,us-southeast-1,us-southeast-1,,eip_idle,0.002996,2.1873
+AlibabaCloud,us-west-1,Silicon Valley,US,eip_idle,0.002996,2.1873
+AlibabaCloudIntl,ap-northeast-1,Tokyo,JP,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-northeast-2,Seoul,KR,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-southeast-1,Singapore,SG,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-southeast-3,Kuala Lumpur,MY,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-southeast-5,Jakarta,ID,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-southeast-6,Manila,PH,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-southeast-7,Bangkok,TH,eip_idle,0.003,2.19
+AlibabaCloudIntl,ap-southeast-8,Jakarta,ID,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-beijing,Beijing,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-chengdu,Chengdu,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-guangzhou,Guangzhou,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-hangzhou,Hangzhou,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-heyuan,Heyuan,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-hongkong,Hong Kong,HK,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-huhehaote,Hohhot,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-qingdao,Qingdao,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-shanghai,Shanghai,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-shenzhen,Shenzhen,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-wulanchabu,Ulanqab,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-zhangjiakou,Zhangjiakou,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,cn-zhongwei,Zhongwei,CN,eip_idle,0.003,2.19
+AlibabaCloudIntl,eu-central-1,Frankfurt,DE,eip_idle,0.003,2.19
+AlibabaCloudIntl,eu-west-1,London,GB,eip_idle,0.003,2.19
+AlibabaCloudIntl,eu-west-2,London,GB,eip_idle,0.003,2.19
+AlibabaCloudIntl,eu-west-3,eu-west-3,,eip_idle,0.003,2.19
+AlibabaCloudIntl,me-central-1,Riyadh,SA,eip_idle,0.003,2.19
+AlibabaCloudIntl,me-east-1,Dubai,AE,eip_idle,0.003,2.19
+AlibabaCloudIntl,na-south-1,Mexico City,MX,eip_idle,0.003,2.19
+AlibabaCloudIntl,sa-east-1,Sao Paulo,BR,eip_idle,0.003,2.19
+AlibabaCloudIntl,us-east-1,N. Virginia,US,eip_idle,0.003,2.19
+AlibabaCloudIntl,us-southeast-1,us-southeast-1,,eip_idle,0.003,2.19
+AlibabaCloudIntl,us-west-1,Silicon Valley,US,eip_idle,0.003,2.19
+Azure,Global,Global,,eip_bound,0.005,3.65
+Azure,Global,Global,,eip_idle,0.005,3.65
+Azure,attatlanta1,Atlanta,US,eip_bound,0.005,3.65
+Azure,attatlanta1,Atlanta,US,eip_idle,0.005,3.65
+Azure,attdallas1,Dallas,US,eip_bound,0.005,3.65
+Azure,attdallas1,Dallas,US,eip_idle,0.005,3.65
+Azure,attdetroit1,Detroit,US,eip_bound,0.005,3.65
+Azure,attdetroit1,Detroit,US,eip_idle,0.005,3.65
+Azure,attnewyork1,New York,US,eip_bound,0.005,3.65
+Azure,attnewyork1,New York,US,eip_idle,0.005,3.65
+Azure,australiacentral,Canberra,AU,eip_bound,0.005,3.65
+Azure,australiacentral,Canberra,AU,eip_idle,0.005,3.65
+Azure,australiacentral2,Canberra,AU,eip_bound,0.005,3.65
+Azure,australiacentral2,Canberra,AU,eip_idle,0.005,3.65
+Azure,australiaeast,Sydney,AU,eip_bound,0.005,3.65
+Azure,australiaeast,Sydney,AU,eip_idle,0.005,3.65
+Azure,australiasoutheast,Melbourne,AU,eip_bound,0.005,3.65
+Azure,australiasoutheast,Melbourne,AU,eip_idle,0.005,3.65
+Azure,austriaeast,Vienna,AT,eip_bound,0.005,3.65
+Azure,austriaeast,Vienna,AT,eip_idle,0.005,3.65
+Azure,belgiumcentral,Brussels,BE,eip_bound,0.005,3.65
+Azure,belgiumcentral,Brussels,BE,eip_idle,0.005,3.65
+Azure,brazilsouth,Sao Paulo,BR,eip_bound,0.005,3.65
+Azure,brazilsouth,Sao Paulo,BR,eip_idle,0.005,3.65
+Azure,canadacentral,Toronto,CA,eip_bound,0.005,3.65
+Azure,canadacentral,Toronto,CA,eip_idle,0.005,3.65
+Azure,canadaeast,Quebec City,CA,eip_bound,0.005,3.65
+Azure,canadaeast,Quebec City,CA,eip_idle,0.005,3.65
+Azure,centralindia,Pune,IN,eip_bound,0.005,3.65
+Azure,centralindia,Pune,IN,eip_idle,0.005,3.65
+Azure,centralus,Iowa,US,eip_bound,0.005,3.65
+Azure,centralus,Iowa,US,eip_idle,0.005,3.65
+Azure,chilecentral,Santiago,CL,eip_bound,0.005,3.65
+Azure,chilecentral,Santiago,CL,eip_idle,0.005,3.65
+Azure,denmarkeast,Copenhagen,DK,eip_bound,0.005,3.65
+Azure,denmarkeast,Copenhagen,DK,eip_idle,0.005,3.65
+Azure,eastasia,Hong Kong,HK,eip_bound,0.005,3.65
+Azure,eastasia,Hong Kong,HK,eip_idle,0.005,3.65
+Azure,eastus,N. Virginia,US,eip_bound,0.005,3.65
+Azure,eastus,N. Virginia,US,eip_idle,0.005,3.65
+Azure,eastus2,N. Virginia,US,eip_bound,0.005,3.65
+Azure,eastus2,N. Virginia,US,eip_idle,0.005,3.65
+Azure,francecentral,Paris,FR,eip_bound,0.005,3.65
+Azure,francecentral,Paris,FR,eip_idle,0.005,3.65
+Azure,francesouth,Marseille,FR,eip_bound,0.005,3.65
+Azure,francesouth,Marseille,FR,eip_idle,0.005,3.65
+Azure,germanynorth,Berlin,DE,eip_bound,0.005,3.65
+Azure,germanynorth,Berlin,DE,eip_idle,0.005,3.65
+Azure,germanywestcentral,Frankfurt,DE,eip_bound,0.005,3.65
+Azure,germanywestcentral,Frankfurt,DE,eip_idle,0.005,3.65
+Azure,indiasouthcentral,Chennai,IN,eip_bound,0.005,3.65
+Azure,indiasouthcentral,Chennai,IN,eip_idle,0.005,3.65
+Azure,indonesiacentral,Jakarta,ID,eip_bound,0.005,3.65
+Azure,indonesiacentral,Jakarta,ID,eip_idle,0.005,3.65
+Azure,israelcentral,Tel Aviv,IL,eip_bound,0.005,3.65
+Azure,israelcentral,Tel Aviv,IL,eip_idle,0.005,3.65
+Azure,israelnorthwest,Tel Aviv,IL,eip_bound,0.005,3.65
+Azure,israelnorthwest,Tel Aviv,IL,eip_idle,0.005,3.65
+Azure,italynorth,Milan,IT,eip_bound,0.005,3.65
+Azure,italynorth,Milan,IT,eip_idle,0.005,3.65
+Azure,japaneast,Tokyo,JP,eip_bound,0.005,3.65
+Azure,japaneast,Tokyo,JP,eip_idle,0.005,3.65
+Azure,japanwest,Osaka,JP,eip_bound,0.005,3.65
+Azure,japanwest,Osaka,JP,eip_idle,0.005,3.65
+Azure,jioindiacentral,Nagpur,IN,eip_bound,0.005,3.65
+Azure,jioindiacentral,Nagpur,IN,eip_idle,0.005,3.65
+Azure,jioindiawest,Jamnagar,IN,eip_bound,0.005,3.65
+Azure,jioindiawest,Jamnagar,IN,eip_idle,0.005,3.65
+Azure,koreacentral,Seoul,KR,eip_bound,0.005,3.65
+Azure,koreacentral,Seoul,KR,eip_idle,0.005,3.65
+Azure,koreasouth,Busan,KR,eip_bound,0.005,3.65
+Azure,koreasouth,Busan,KR,eip_idle,0.005,3.65
+Azure,malaysiawest,Kuala Lumpur,MY,eip_bound,0.005,3.65
+Azure,malaysiawest,Kuala Lumpur,MY,eip_idle,0.005,3.65
+Azure,mexicocentral,Mexico City,MX,eip_bound,0.005,3.65
+Azure,mexicocentral,Mexico City,MX,eip_idle,0.005,3.65
+Azure,newzealandnorth,Auckland,NZ,eip_bound,0.005,3.65
+Azure,newzealandnorth,Auckland,NZ,eip_idle,0.005,3.65
+Azure,northcentralus,Chicago,US,eip_bound,0.005,3.65
+Azure,northcentralus,Chicago,US,eip_idle,0.005,3.65
+Azure,northeurope,Dublin,IE,eip_bound,0.005,3.65
+Azure,northeurope,Dublin,IE,eip_idle,0.005,3.65
+Azure,norwayeast,Oslo,NO,eip_bound,0.005,3.65
+Azure,norwayeast,Oslo,NO,eip_idle,0.005,3.65
+Azure,norwaywest,Stavanger,NO,eip_bound,0.005,3.65
+Azure,norwaywest,Stavanger,NO,eip_idle,0.005,3.65
+Azure,polandcentral,Warsaw,PL,eip_bound,0.005,3.65
+Azure,polandcentral,Warsaw,PL,eip_idle,0.005,3.65
+Azure,qatarcentral,Doha,QA,eip_bound,0.005,3.65
+Azure,qatarcentral,Doha,QA,eip_idle,0.005,3.65
+Azure,saudiarabiaeast,saudiarabiaeast,,eip_bound,0.005,3.65
+Azure,saudiarabiaeast,saudiarabiaeast,,eip_idle,0.005,3.65
+Azure,sgxsingapore1,Singapore,SG,eip_bound,0.005,3.65
+Azure,sgxsingapore1,Singapore,SG,eip_idle,0.005,3.65
+Azure,southafricanorth,Johannesburg,ZA,eip_bound,0.005,3.65
+Azure,southafricanorth,Johannesburg,ZA,eip_idle,0.005,3.65
+Azure,southafricawest,Cape Town,ZA,eip_bound,0.005,3.65
+Azure,southafricawest,Cape Town,ZA,eip_idle,0.005,3.65
+Azure,southcentralus,San Antonio,US,eip_bound,0.005,3.65
+Azure,southcentralus,San Antonio,US,eip_idle,0.005,3.65
+Azure,southeastasia,Singapore,SG,eip_bound,0.005,3.65
+Azure,southeastasia,Singapore,SG,eip_idle,0.005,3.65
+Azure,southeastasia3,southeastasia3,,eip_bound,0.005,3.65
+Azure,southeastasia3,southeastasia3,,eip_idle,0.005,3.65
+Azure,southindia,Chennai,IN,eip_bound,0.005,3.65
+Azure,southindia,Chennai,IN,eip_idle,0.005,3.65
+Azure,spaincentral,Madrid,ES,eip_bound,0.005,3.65
+Azure,spaincentral,Madrid,ES,eip_idle,0.005,3.65
+Azure,swedencentral,Stockholm,SE,eip_bound,0.005,3.65
+Azure,swedencentral,Stockholm,SE,eip_idle,0.005,3.65
+Azure,swedensouth,Malmo,SE,eip_bound,0.005,3.65
+Azure,swedensouth,Malmo,SE,eip_idle,0.005,3.65
+Azure,switzerlandnorth,Zurich,CH,eip_bound,0.005,3.65
+Azure,switzerlandnorth,Zurich,CH,eip_idle,0.005,3.65
+Azure,switzerlandwest,Geneva,CH,eip_bound,0.005,3.65
+Azure,switzerlandwest,Geneva,CH,eip_idle,0.005,3.65
+Azure,taiwannorth,taiwannorth,,eip_bound,0.005,3.65
+Azure,taiwannorth,taiwannorth,,eip_idle,0.005,3.65
+Azure,taiwannorthwest,taiwannorthwest,,eip_bound,0.005,3.65
+Azure,taiwannorthwest,taiwannorthwest,,eip_idle,0.005,3.65
+Azure,uaecentral,Abu Dhabi,AE,eip_bound,0.005,3.65
+Azure,uaecentral,Abu Dhabi,AE,eip_idle,0.005,3.65
+Azure,uaenorth,Dubai,AE,eip_bound,0.005,3.65
+Azure,uaenorth,Dubai,AE,eip_idle,0.005,3.65
+Azure,uksouth,London,GB,eip_bound,0.005,3.65
+Azure,uksouth,London,GB,eip_idle,0.005,3.65
+Azure,ukwest,Cardiff,GB,eip_bound,0.005,3.65
+Azure,ukwest,Cardiff,GB,eip_idle,0.005,3.65
+Azure,usgovarizona,Phoenix,US,eip_bound,0.00625,4.5625
+Azure,usgovarizona,Phoenix,US,eip_idle,0.00625,4.5625
+Azure,usgovtexas,San Antonio,US,eip_bound,0.00625,4.5625
+Azure,usgovtexas,San Antonio,US,eip_idle,0.00625,4.5625
+Azure,usgovvirginia,N. Virginia,US,eip_bound,0.00625,4.5625
+Azure,usgovvirginia,N. Virginia,US,eip_idle,0.00625,4.5625
+Azure,westcentralus,Cheyenne,US,eip_bound,0.005,3.65
+Azure,westcentralus,Cheyenne,US,eip_idle,0.005,3.65
+Azure,westeurope,Amsterdam,NL,eip_bound,0.005,3.65
+Azure,westeurope,Amsterdam,NL,eip_idle,0.005,3.65
+Azure,westindia,Mumbai,IN,eip_bound,0.005,3.65
+Azure,westindia,Mumbai,IN,eip_idle,0.005,3.65
+Azure,westus,Silicon Valley,US,eip_bound,0.005,3.65
+Azure,westus,Silicon Valley,US,eip_idle,0.005,3.65
+Azure,westus2,Seattle,US,eip_bound,0.005,3.65
+Azure,westus2,Seattle,US,eip_idle,0.005,3.65
+Azure,westus3,Phoenix,US,eip_bound,0.005,3.65
+Azure,westus3,Phoenix,US,eip_idle,0.005,3.65
+GCP,africa-south1,Johannesburg,ZA,eip_bound,0.005,3.65
+GCP,africa-south1,Johannesburg,ZA,eip_idle,0.01308,9.5484
+GCP,asia-east1,Taipei,TW,eip_bound,0.005,3.65
+GCP,asia-east1,Taipei,TW,eip_idle,0.01,7.3
+GCP,asia-east2,Hong Kong,HK,eip_bound,0.005,3.65
+GCP,asia-east2,Hong Kong,HK,eip_idle,0.01,7.3
+GCP,asia-northeast1,Tokyo,JP,eip_bound,0.005,3.65
+GCP,asia-northeast1,Tokyo,JP,eip_idle,0.015,10.95
+GCP,asia-northeast2,Osaka,JP,eip_bound,0.005,3.65
+GCP,asia-northeast2,Osaka,JP,eip_idle,0.015,10.95
+GCP,asia-northeast3,Seoul,KR,eip_bound,0.005,3.65
+GCP,asia-northeast3,Seoul,KR,eip_idle,0.015,10.95
+GCP,asia-south1,Mumbai,IN,eip_bound,0.005,3.65
+GCP,asia-south1,Mumbai,IN,eip_idle,0.012,8.76
+GCP,asia-south2,Delhi,IN,eip_bound,0.005,3.65
+GCP,asia-south2,Delhi,IN,eip_idle,0.012,8.76
+GCP,asia-southeast1,Singapore,SG,eip_bound,0.005,3.65
+GCP,asia-southeast1,Singapore,SG,eip_idle,0.011,8.03
+GCP,asia-southeast2,Jakarta,ID,eip_bound,0.005,3.65
+GCP,asia-southeast2,Jakarta,ID,eip_idle,0.011,8.03
+GCP,asia-southeast3,Kuala Lumpur,MY,eip_bound,0.005,3.65
+GCP,asia-southeast3,Kuala Lumpur,MY,eip_idle,0.0105,7.665
+GCP,asia-southeast4,Jakarta,ID,eip_bound,0.005,3.65
+GCP,asia-southeast4,Jakarta,ID,eip_idle,0.0105,7.665
+GCP,australia-southeast1,Sydney,AU,eip_bound,0.005,3.65
+GCP,australia-southeast1,Sydney,AU,eip_idle,0.014,10.22
+GCP,australia-southeast2,Melbourne,AU,eip_bound,0.005,3.65
+GCP,australia-southeast2,Melbourne,AU,eip_idle,0.014,10.22
+GCP,europe-central2,Warsaw,PL,eip_bound,0.005,3.65
+GCP,europe-central2,Warsaw,PL,eip_idle,0.012,8.76
+GCP,europe-north1,Helsinki,FI,eip_bound,0.005,3.65
+GCP,europe-north1,Helsinki,FI,eip_idle,0.011,8.03
+GCP,europe-southwest1,Madrid,ES,eip_bound,0.005,3.65
+GCP,europe-southwest1,Madrid,ES,eip_idle,0.012,8.76
+GCP,europe-west1,St. Ghislain,BE,eip_bound,0.005,3.65
+GCP,europe-west1,St. Ghislain,BE,eip_idle,0.01,7.3
+GCP,europe-west10,Berlin,DE,eip_bound,0.005,3.65
+GCP,europe-west10,Berlin,DE,eip_idle,0.0154,11.242
+GCP,europe-west12,Turin,IT,eip_bound,0.005,3.65
+GCP,europe-west12,Turin,IT,eip_idle,0.012,8.76
+GCP,europe-west2,London,GB,eip_bound,0.005,3.65
+GCP,europe-west2,London,GB,eip_idle,0.012,8.76
+GCP,europe-west3,Frankfurt,DE,eip_bound,0.005,3.65
+GCP,europe-west3,Frankfurt,DE,eip_idle,0.012,8.76
+GCP,europe-west4,Eemshaven,NL,eip_bound,0.005,3.65
+GCP,europe-west4,Eemshaven,NL,eip_idle,0.011,8.03
+GCP,europe-west6,Zurich,CH,eip_bound,0.005,3.65
+GCP,europe-west6,Zurich,CH,eip_idle,0.01,7.3
+GCP,europe-west8,Milan,IT,eip_bound,0.005,3.65
+GCP,europe-west8,Milan,IT,eip_idle,0.0117,8.541
+GCP,europe-west9,Paris,FR,eip_bound,0.005,3.65
+GCP,europe-west9,Paris,FR,eip_idle,0.0117,8.541
+GCP,me-central1,Doha,QA,eip_bound,0.005,3.65
+GCP,me-central1,Doha,QA,eip_idle,0.0123,8.979
+GCP,me-central2,Dammam,SA,eip_bound,0.005,3.65
+GCP,me-central2,Dammam,SA,eip_idle,0.016,11.68
+GCP,me-west1,Tel Aviv,IL,eip_bound,0.005,3.65
+GCP,me-west1,Tel Aviv,IL,eip_idle,0.011,8.03
+GCP,northamerica-northeast1,Montreal,CA,eip_bound,0.005,3.65
+GCP,northamerica-northeast1,Montreal,CA,eip_idle,0.011,8.03
+GCP,northamerica-northeast2,Toronto,CA,eip_bound,0.005,3.65
+GCP,northamerica-northeast2,Toronto,CA,eip_idle,0.011,8.03
+GCP,northamerica-south1,Mexico City,MX,eip_bound,0.005,3.65
+GCP,northamerica-south1,Mexico City,MX,eip_idle,0.0109,7.957
+GCP,southamerica-east1,Sao Paulo,BR,eip_bound,0.005,3.65
+GCP,southamerica-east1,Sao Paulo,BR,eip_idle,0.015,10.95
+GCP,southamerica-west1,Santiago,CL,eip_bound,0.005,3.65
+GCP,southamerica-west1,Santiago,CL,eip_idle,0.015,10.95
+GCP,us-central1,Iowa,US,eip_bound,0.005,3.65
+GCP,us-central1,Iowa,US,eip_idle,0.01,7.3
+GCP,us-east1,South Carolina,US,eip_bound,0.005,3.65
+GCP,us-east1,South Carolina,US,eip_idle,0.01,7.3
+GCP,us-east4,N. Virginia,US,eip_bound,0.005,3.65
+GCP,us-east4,N. Virginia,US,eip_idle,0.011,8.03
+GCP,us-east5,Columbus,US,eip_bound,0.005,3.65
+GCP,us-east5,Columbus,US,eip_idle,0.01,7.3
+GCP,us-south1,Dallas,US,eip_bound,0.005,3.65
+GCP,us-south1,Dallas,US,eip_idle,0.0118,8.614
+GCP,us-west1,Oregon,US,eip_bound,0.005,3.65
+GCP,us-west1,Oregon,US,eip_idle,0.01,7.3
+GCP,us-west2,Los Angeles,US,eip_bound,0.005,3.65
+GCP,us-west2,Los Angeles,US,eip_idle,0.012,8.76
+GCP,us-west3,Salt Lake City,US,eip_bound,0.005,3.65
+GCP,us-west3,Salt Lake City,US,eip_idle,0.012,8.76
+GCP,us-west4,Las Vegas,US,eip_bound,0.005,3.65
+GCP,us-west4,Las Vegas,US,eip_idle,0.011,8.03
+GCP,us-west8,Los Angeles,US,eip_bound,0.005,3.65
+GCP,us-west8,Los Angeles,US,eip_idle,0.011,8.03
+HuaweiCloud,af-north-1,Cairo,EG,eip_idle,0.007388,5.3933
+HuaweiCloud,af-south-1,Johannesburg,ZA,eip_idle,0.007388,5.3933
+HuaweiCloud,ap-southeast-1,Hong Kong,HK,eip_idle,0.007388,5.3933
+HuaweiCloud,ap-southeast-2,Bangkok,TH,eip_idle,0.007388,5.3933
+HuaweiCloud,ap-southeast-3,Singapore,SG,eip_idle,0.007388,5.3933
+HuaweiCloud,ap-southeast-4,Jakarta,ID,eip_idle,0.007388,5.3933
+HuaweiCloud,ap-southeast-5,Manila,PH,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-east-2,Shanghai,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-east-201,Shanghai,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-east-3,Shanghai,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-east-4,Shanghai,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-east-5,Qingdao,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-east-6,cn-east-6,,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-north-11,Beijing,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-north-219,Ulanqab,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-north-4,Beijing,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-north-9,Ulanqab,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-northeast-1,Shenyang,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-south-1,Guangzhou,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-southwest-2,Guiyang,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,cn-southwest-3,Guiyang,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,global-cbc-1,Beijing,CN,eip_idle,0.007388,5.3933
+HuaweiCloud,la-north-2,Mexico City,MX,eip_idle,0.007388,5.3933
+HuaweiCloud,la-south-2,Santiago,CL,eip_idle,0.007388,5.3933
+HuaweiCloud,me-east-1,Dubai,AE,eip_idle,0.007388,5.3933
+HuaweiCloud,sa-brazil-1,Sao Paulo,BR,eip_idle,0.007388,5.3933
+HuaweiCloud,tr-west-1,Istanbul,TR,eip_idle,0.007388,5.3933
+HuaweiCloudIntl,af-north-1,Cairo,EG,eip_idle,0.007041,5.14
+HuaweiCloudIntl,af-south-1,Johannesburg,ZA,eip_idle,0.007041,5.14
+HuaweiCloudIntl,ap-southeast-1,Hong Kong,HK,eip_idle,0.007041,5.14
+HuaweiCloudIntl,ap-southeast-2,Bangkok,TH,eip_idle,0.007041,5.14
+HuaweiCloudIntl,ap-southeast-3,Singapore,SG,eip_idle,0.007041,5.14
+HuaweiCloudIntl,ap-southeast-4,Jakarta,ID,eip_idle,0.007041,5.14
+HuaweiCloudIntl,ap-southeast-5,Manila,PH,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-east-3,Shanghai,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-east-4,Shanghai,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-east-5,Qingdao,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-north-4,Beijing,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-north-9,Ulanqab,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-south-1,Guangzhou,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,cn-southwest-2,Guiyang,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,global-cbc-1,Beijing,CN,eip_idle,0.007041,5.14
+HuaweiCloudIntl,la-north-2,Mexico City,MX,eip_idle,0.007041,5.14
+HuaweiCloudIntl,la-south-2,Santiago,CL,eip_idle,0.007041,5.14
+HuaweiCloudIntl,me-east-1,Dubai,AE,eip_idle,0.007041,5.14
+HuaweiCloudIntl,sa-brazil-1,Sao Paulo,BR,eip_idle,0.007041,5.14
+HuaweiCloudIntl,tr-west-1,Istanbul,TR,eip_idle,0.007041,5.14
+TencentCloud,ap-bangkok,Bangkok,TH,eip_idle,0.029963,21.8728
+TencentCloud,ap-beijing,Beijing,CN,eip_idle,0.029963,21.8728
+TencentCloud,ap-chengdu,Chengdu,CN,eip_idle,0.029963,21.8728
+TencentCloud,ap-chongqing,Chongqing,CN,eip_idle,0.029963,21.8728
+TencentCloud,ap-guangzhou,Guangzhou,CN,eip_idle,0.029963,21.8728
+TencentCloud,ap-hongkong,Hong Kong,HK,eip_idle,0.029963,21.8728
+TencentCloud,ap-jakarta,Jakarta,ID,eip_idle,0.029963,21.8728
+TencentCloud,ap-johorbahru,Johor Bahru,MY,eip_idle,0.029963,21.8728
+TencentCloud,ap-nanjing,Nanjing,CN,eip_idle,0.029963,21.8728
+TencentCloud,ap-osaka,Osaka,JP,eip_idle,0.029963,21.8728
+TencentCloud,ap-seoul,Seoul,KR,eip_idle,0.029963,21.8728
+TencentCloud,ap-shanghai,Shanghai,CN,eip_idle,0.029963,21.8728
+TencentCloud,ap-tokyo,Tokyo,JP,eip_idle,0.029963,21.8728
+TencentCloud,eu-frankfurt,Frankfurt,DE,eip_idle,0.029963,21.8728
+TencentCloud,me-saudi-arabia,Riyadh,SA,eip_idle,0.029963,21.8728
+TencentCloud,na-ashburn,N. Virginia,US,eip_idle,0.029963,21.8728
+TencentCloud,na-queretaro,na-queretaro,,eip_idle,0.029963,21.8728
+TencentCloud,na-siliconvalley,Silicon Valley,US,eip_idle,0.029963,21.8728
+TencentCloud,sa-saopaulo,Sao Paulo,BR,eip_idle,0.029963,21.8728
+UCloud,afr-nigeria,Lagos,NG,eip_bound,0.008989,6.5618
+UCloud,afr-nigeria,Lagos,NG,eip_idle,0.008989,6.5618
+UCloud,bra-saopaulo,Sao Paulo,BR,eip_bound,0.008989,6.5618
+UCloud,bra-saopaulo,Sao Paulo,BR,eip_idle,0.008989,6.5618
+UCloud,cn-bj2,Beijing,CN,eip_bound,0.010487,7.6555
+UCloud,cn-bj2,Beijing,CN,eip_idle,0.010487,7.6555
+UCloud,cn-gd,Guangzhou,CN,eip_bound,0.010487,7.6555
+UCloud,cn-gd,Guangzhou,CN,eip_idle,0.010487,7.6555
+UCloud,cn-guiyang1,Guiyang,CN,eip_bound,0.010487,7.6555
+UCloud,cn-guiyang1,Guiyang,CN,eip_idle,0.010487,7.6555
+UCloud,cn-sh2,Shanghai,CN,eip_bound,0.010487,7.6555
+UCloud,cn-sh2,Shanghai,CN,eip_idle,0.010487,7.6555
+UCloud,cn-wlcb,Ulanqab,CN,eip_bound,0.010487,7.6555
+UCloud,cn-wlcb,Ulanqab,CN,eip_idle,0.010487,7.6555
+UCloud,ge-fra,Frankfurt,DE,eip_bound,0.008989,6.5618
+UCloud,ge-fra,Frankfurt,DE,eip_idle,0.008989,6.5618
+UCloud,hk,Hong Kong,HK,eip_bound,0.008989,6.5618
+UCloud,hk,Hong Kong,HK,eip_idle,0.008989,6.5618
+UCloud,idn-jakarta,Jakarta,ID,eip_bound,0.008989,6.5618
+UCloud,idn-jakarta,Jakarta,ID,eip_idle,0.008989,6.5618
+UCloud,ind-mumbai,Mumbai,IN,eip_bound,0.008989,6.5618
+UCloud,ind-mumbai,Mumbai,IN,eip_idle,0.008989,6.5618
+UCloud,jpn-tky,Tokyo,JP,eip_bound,0.008989,6.5618
+UCloud,jpn-tky,Tokyo,JP,eip_idle,0.008989,6.5618
+UCloud,kr-seoul,Seoul,KR,eip_bound,0.008989,6.5618
+UCloud,kr-seoul,Seoul,KR,eip_idle,0.008989,6.5618
+UCloud,kz-ala,Almaty,KZ,eip_bound,0.008989,6.5618
+UCloud,kz-ala,Almaty,KZ,eip_idle,0.008989,6.5618
+UCloud,mx-mex,Mexico City,MX,eip_bound,0.010487,7.6555
+UCloud,mx-mex,Mexico City,MX,eip_idle,0.010487,7.6555
+UCloud,ph-mnl,Manila,PH,eip_bound,0.008989,6.5618
+UCloud,ph-mnl,Manila,PH,eip_idle,0.008989,6.5618
+UCloud,pk-khi,Karachi,PK,eip_bound,0.008989,6.5618
+UCloud,pk-khi,Karachi,PK,eip_idle,0.008989,6.5618
+UCloud,sg,Singapore,SG,eip_bound,0.008989,6.5618
+UCloud,sg,Singapore,SG,eip_idle,0.008989,6.5618
+UCloud,th-bkk,Bangkok,TH,eip_bound,0.008989,6.5618
+UCloud,th-bkk,Bangkok,TH,eip_idle,0.008989,6.5618
+UCloud,tw-tp,Taipei,TW,eip_bound,0.008989,6.5618
+UCloud,tw-tp,Taipei,TW,eip_idle,0.008989,6.5618
+UCloud,uae-dubai,Dubai,AE,eip_bound,0.008989,6.5618
+UCloud,uae-dubai,Dubai,AE,eip_idle,0.008989,6.5618
+UCloud,uk-london,London,GB,eip_bound,0.008989,6.5618
+UCloud,uk-london,London,GB,eip_idle,0.008989,6.5618
+UCloud,us-ca,Silicon Valley,US,eip_bound,0.010487,7.6555
+UCloud,us-ca,Silicon Valley,US,eip_idle,0.010487,7.6555
+UCloud,us-den,Denver,US,eip_bound,0.010487,7.6555
+UCloud,us-den,Denver,US,eip_idle,0.010487,7.6555
+UCloud,us-ws,N. Virginia,US,eip_bound,0.008989,6.5618
+UCloud,us-ws,N. Virginia,US,eip_idle,0.008989,6.5618
+UCloud,uz-tas,Tashkent,UZ,eip_bound,0.008989,6.5618
+UCloud,uz-tas,Tashkent,UZ,eip_idle,0.008989,6.5618
+UCloud,vn-sng,Ho Chi Minh City,VN,eip_bound,0.008989,6.5618
+UCloud,vn-sng,Ho Chi Minh City,VN,eip_idle,0.008989,6.5618
+Volcengine,ap-southeast-1,Singapore,SG,eip_bound,0.005993,4.3746
+Volcengine,ap-southeast-1,Singapore,SG,eip_idle,0.005993,4.3746
+Volcengine,ap-southeast-3,Jakarta,ID,eip_bound,0.005993,4.3746
+Volcengine,ap-southeast-3,Jakarta,ID,eip_idle,0.005993,4.3746
+Volcengine,cn-beijing,Beijing,CN,eip_bound,0.002996,2.1873
+Volcengine,cn-beijing,Beijing,CN,eip_idle,0.002996,2.1873
+Volcengine,cn-guangzhou,Guangzhou,CN,eip_bound,0.002996,2.1873
+Volcengine,cn-guangzhou,Guangzhou,CN,eip_idle,0.002996,2.1873
+Volcengine,cn-hongkong,Hong Kong,HK,eip_bound,0.005993,4.3746
+Volcengine,cn-hongkong,Hong Kong,HK,eip_idle,0.005993,4.3746
+Volcengine,cn-shanghai,Shanghai,CN,eip_bound,0.002996,2.1873
+Volcengine,cn-shanghai,Shanghai,CN,eip_idle,0.002996,2.1873
+Vultr,ams,Amsterdam,NL,eip_idle,0.00411,3.0003
+Vultr,atl,Atlanta,US,eip_idle,0.00411,3.0003
+Vultr,blr,Bangalore,IN,eip_idle,0.00411,3.0003
+Vultr,bom,Mumbai,IN,eip_idle,0.00411,3.0003
+Vultr,cdg,Paris,FR,eip_idle,0.00411,3.0003
+Vultr,cmh,cmh,,eip_idle,0.00411,3.0003
+Vultr,del,Delhi,IN,eip_idle,0.00411,3.0003
+Vultr,dfw,Dallas,US,eip_idle,0.00411,3.0003
+Vultr,ewr,New York,US,eip_idle,0.00411,3.0003
+Vultr,fra,Frankfurt,DE,eip_idle,0.00411,3.0003
+Vultr,hnl,Honolulu,US,eip_idle,0.00411,3.0003
+Vultr,icn,Seoul,KR,eip_idle,0.00411,3.0003
+Vultr,itm,Osaka,JP,eip_idle,0.00411,3.0003
+Vultr,jnb,Johannesburg,ZA,eip_idle,0.00411,3.0003
+Vultr,lax,Los Angeles,US,eip_idle,0.00411,3.0003
+Vultr,lhr,London,GB,eip_idle,0.00411,3.0003
+Vultr,mad,Madrid,ES,eip_idle,0.00411,3.0003
+Vultr,man,London,GB,eip_idle,0.00411,3.0003
+Vultr,mci,mci,,eip_idle,0.00411,3.0003
+Vultr,mel,Melbourne,AU,eip_idle,0.00411,3.0003
+Vultr,mex,Mexico City,MX,eip_idle,0.00411,3.0003
+Vultr,mia,Miami,US,eip_idle,0.00411,3.0003
+Vultr,mxp,Milan,IT,eip_idle,0.00411,3.0003
+Vultr,nrt,Tokyo,JP,eip_idle,0.00411,3.0003
+Vultr,ord,Chicago,US,eip_idle,0.00411,3.0003
+Vultr,sao,Sao Paulo,BR,eip_idle,0.00411,3.0003
+Vultr,scl,Santiago,CL,eip_idle,0.00411,3.0003
+Vultr,sea,Seattle,US,eip_idle,0.00411,3.0003
+Vultr,sgp,Singapore,SG,eip_idle,0.00411,3.0003
+Vultr,sjc,Silicon Valley,US,eip_idle,0.00411,3.0003
+Vultr,stl,stl,,eip_idle,0.00411,3.0003
+Vultr,sto,Stockholm,SE,eip_idle,0.00411,3.0003
+Vultr,syd,Sydney,AU,eip_idle,0.00411,3.0003
+Vultr,tlv,Tel Aviv,IL,eip_idle,0.00411,3.0003
+Vultr,waw,Warsaw,PL,eip_idle,0.00411,3.0003
+Vultr,yto,Toronto,CA,eip_idle,0.00411,3.0003

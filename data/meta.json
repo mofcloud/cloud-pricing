@@ -1,0 +1,31 @@
+{
+  "synced_at": "2026-11-27T18:54:45Z",
+  "rows": {
+    "instances.csv": 11340,
+    "gpu-instances.csv": 696,
+    "instance-regions.csv.gz": 189626,
+    "disks.csv": 2002,
+    "egress.csv": 490,
+    "bandwidth.csv": 158,
+    "public-ip.csv": 625
+  },
+  "providers": [
+    "AWS",
+    "AlibabaCloud",
+    "AlibabaCloudIntl",
+    "Azure",
+    "BaiduCloud",
+    "GCP",
+    "HuaweiCloud",
+    "HuaweiCloudIntl",
+    "Linode",
+    "OCI",
+    "TencentCloud",
+    "TencentCloudIntl",
+    "UCloud",
+    "Volcengine",
+    "Vultr"
+  ],
+  "source": "https://mofcloud.com/tools",
+  "license": "CC-BY-4.0"
+}

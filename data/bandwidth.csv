@@ -1,0 +1,159 @@
+provider,region,region_name,country,charge_type,first_mbps_usd_month,avg_usd_per_mbps_at_100mbps,usd_per_100mbps_month
+AlibabaCloud,ap-northeast-1,Tokyo,JP,subscription,5.2495,16.8858,1688.5786
+AlibabaCloud,ap-northeast-2,Seoul,KR,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,ap-southeast-1,Singapore,SG,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,ap-southeast-3,Kuala Lumpur,MY,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,ap-southeast-5,Jakarta,ID,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,ap-southeast-6,Manila,PH,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,ap-southeast-7,Bangkok,TH,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,ap-southeast-8,Jakarta,ID,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-beijing,Beijing,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-chengdu,Chengdu,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-guangzhou,Guangzhou,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-hangzhou,Hangzhou,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-hangzhou-acdr-ut-1,Hangzhou,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-hangzhou-acdr-ut-3,Hangzhou,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-heyuan,Heyuan,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-heyuan-acdr-1,Heyuan,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-hongkong,Hong Kong,HK,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-huhehaote,Hohhot,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-qingdao,Qingdao,CN,subscription,3.2809,13.6705,1367.0488
+AlibabaCloud,cn-qingdao-acdr-ut-1,Qingdao,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-shanghai,Shanghai,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-shenzhen,Shenzhen,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-wuhan-lr,Wuhan,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-wulanchabu,Ulanqab,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-wulanchabu-acdr-1,Ulanqab,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-wulanchabu-acdr-ut-1,Ulanqab,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-wulanchabu-gic-1,Ulanqab,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-zhangjiakou,Zhangjiakou,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,cn-zhongwei,Zhongwei,CN,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,eu-central-1,Frankfurt,DE,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,eu-west-1,London,GB,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,eu-west-2,London,GB,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,eu-west-3,eu-west-3,,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,me-east-1,Dubai,AE,subscription,15.3109,15.3109,1531.0946
+AlibabaCloud,na-south-1,Mexico City,MX,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,sa-east-1,Sao Paulo,BR,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,us-east-1,N. Virginia,US,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,us-southeast-1,us-southeast-1,,subscription,4.3746,14.7641,1476.4127
+AlibabaCloud,us-west-1,Silicon Valley,US,subscription,4.3746,14.7641,1476.4127
+AlibabaCloudIntl,ap-northeast-1,Tokyo,JP,subscription,5.1708,16.7292,1672.9167
+AlibabaCloudIntl,ap-northeast-2,Seoul,KR,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,ap-southeast-1,Singapore,SG,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,ap-southeast-3,Kuala Lumpur,MY,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,ap-southeast-5,Jakarta,ID,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,ap-southeast-6,Manila,PH,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,ap-southeast-7,Bangkok,TH,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,ap-southeast-8,Jakarta,ID,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-beijing,Beijing,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-chengdu,Chengdu,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-guangzhou,Guangzhou,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-hangzhou,Hangzhou,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-heyuan,Heyuan,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-hongkong,Hong Kong,HK,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-huhehaote,Hohhot,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-qingdao,Qingdao,CN,subscription,3.3458,13.4594,1345.9375
+AlibabaCloudIntl,cn-shanghai,Shanghai,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-shenzhen,Shenzhen,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-wulanchabu,Ulanqab,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-zhangjiakou,Zhangjiakou,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,cn-zhongwei,Zhongwei,CN,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,eu-central-1,Frankfurt,DE,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,eu-west-1,London,GB,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,eu-west-2,London,GB,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,eu-west-3,eu-west-3,,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,me-central-1,Riyadh,SA,subscription,5.1708,17.596,1759.6042
+AlibabaCloudIntl,me-east-1,Dubai,AE,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,na-south-1,Mexico City,MX,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,sa-east-1,Sao Paulo,BR,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,us-east-1,N. Virginia,US,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,us-southeast-1,us-southeast-1,,subscription,4.2583,14.6608,1466.0833
+AlibabaCloudIntl,us-west-1,Silicon Valley,US,subscription,4.2583,14.6608,1466.0833
+BaiduCloud,bd,Baoding,CN,subscription,3.4457,10.9888,1098.8825
+BaiduCloud,bj,Beijing,CN,subscription,3.4457,10.9888,1098.8825
+BaiduCloud,cd,Chengdu,CN,subscription,3.4457,10.9888,1098.8825
+BaiduCloud,fsh,Shanghai,CN,subscription,3.4457,10.9888,1098.8825
+BaiduCloud,fwh,Wuhan,CN,subscription,3.4457,10.9888,1098.8825
+BaiduCloud,gz,Guangzhou,CN,subscription,3.4457,10.9888,1098.8825
+BaiduCloud,hkg,Hong Kong,HK,subscription,4.045,13.0113,1301.1308
+BaiduCloud,su,Suzhou,CN,subscription,3.4457,10.9888,1098.8825
+HuaweiCloud,ap-southeast-1,Hong Kong,HK,subscription,4.4944,14.457,1445.7009
+HuaweiCloud,ap-southeast-2,Bangkok,TH,subscription,5.3633,10.4585,1045.8485
+HuaweiCloud,cn-east-2,Shanghai,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-east-201,Shanghai,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-east-3,Shanghai,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-east-4,Shanghai,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-east-5,Qingdao,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-east-6,cn-east-6,,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-north-11,Beijing,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-north-12,Ulanqab,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-north-219,Ulanqab,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-north-4,Beijing,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-north-9,Ulanqab,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-northeast-1,Shenyang,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-south-1,Guangzhou,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-south-4,Guangzhou,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-southwest-2,Guiyang,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,cn-southwest-3,Guiyang,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloud,global-cbc-1,Beijing,CN,subscription,3.4457,11.5581,1155.8117
+HuaweiCloudIntl,ap-southeast-1,Hong Kong,HK,subscription,4.86,15.633,1563.3
+HuaweiCloudIntl,ap-southeast-2,Bangkok,TH,subscription,4.86,9.477,947.7
+HuaweiCloudIntl,cn-east-2,Shanghai,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-east-3,Shanghai,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-east-4,Shanghai,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-east-5,Qingdao,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-north-1,Beijing,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-north-12,Ulanqab,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-north-4,Beijing,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-north-9,Ulanqab,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-south-1,Guangzhou,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,cn-southwest-2,Guiyang,CN,subscription,3.54,11.8715,1187.15
+HuaweiCloudIntl,global-cbc-1,Beijing,CN,subscription,4.86,15.633,1563.3
+TencentCloud,ap-bangkok,Bangkok,TH,subscription,4.4944,14.457,1445.7009
+TencentCloud,ap-beijing,Beijing,CN,subscription,2.9963,12.9813,1298.1345
+TencentCloud,ap-chengdu,Chengdu,CN,subscription,2.6966,11.5386,1153.8641
+TencentCloud,ap-chongqing,Chongqing,CN,subscription,2.6966,11.5386,1153.8641
+TencentCloud,ap-guangzhou,Guangzhou,CN,subscription,2.9963,12.9813,1298.1345
+TencentCloud,ap-hongkong,Hong Kong,HK,subscription,2.9963,12.9813,1298.1345
+TencentCloud,ap-jakarta,Jakarta,ID,subscription,3.7453,11.5731,1157.3098
+TencentCloud,ap-nanjing,Nanjing,CN,subscription,2.9963,12.9813,1298.1345
+TencentCloud,ap-seoul,Seoul,KR,subscription,2.9963,11.5356,1153.5644
+TencentCloud,ap-shanghai,Shanghai,CN,subscription,2.9963,12.9813,1298.1345
+TencentCloud,ap-tokyo,Tokyo,JP,subscription,3.7453,11.5731,1157.3098
+TencentCloud,eu-frankfurt,Frankfurt,DE,subscription,2.9963,11.5356,1153.5644
+TencentCloud,na-ashburn,N. Virginia,US,subscription,4.4944,14.457,1445.7009
+TencentCloud,na-siliconvalley,Silicon Valley,US,subscription,4.4944,14.457,1445.7009
+UCloud,afr-nigeria,Lagos,NG,subscription,4.4944,14.457,1445.7009
+UCloud,bra-saopaulo,Sao Paulo,BR,subscription,4.4944,14.457,1445.7009
+UCloud,cn-bj2,Beijing,CN,subscription,3.7453,14.4196,1441.9556
+UCloud,cn-gd,Guangzhou,CN,subscription,3.7453,14.4196,1441.9556
+UCloud,cn-guiyang1,Guiyang,CN,subscription,3.7453,14.4196,1441.9556
+UCloud,cn-sh2,Shanghai,CN,subscription,3.7453,14.4196,1441.9556
+UCloud,cn-wlcb,Ulanqab,CN,subscription,3.7453,14.4196,1441.9556
+UCloud,ge-fra,Frankfurt,DE,subscription,4.4944,14.457,1445.7009
+UCloud,hk,Hong Kong,HK,subscription,4.4944,14.457,1445.7009
+UCloud,idn-jakarta,Jakarta,ID,subscription,4.4944,14.457,1445.7009
+UCloud,ind-mumbai,Mumbai,IN,subscription,4.4944,14.457,1445.7009
+UCloud,jpn-tky,Tokyo,JP,subscription,4.4944,14.457,1445.7009
+UCloud,kr-seoul,Seoul,KR,subscription,4.4944,14.457,1445.7009
+UCloud,kz-ala,Almaty,KZ,subscription,14.9814,14.9814,1498.1356
+UCloud,mx-mex,Mexico City,MX,subscription,4.4944,14.457,1445.7009
+UCloud,ph-mnl,Manila,PH,subscription,4.4944,14.457,1445.7009
+UCloud,pk-khi,Karachi,PK,subscription,14.9814,14.9814,1498.1356
+UCloud,sg,Singapore,SG,subscription,4.4944,14.457,1445.7009
+UCloud,th-bkk,Bangkok,TH,subscription,4.4944,14.457,1445.7009
+UCloud,tw-tp,Taipei,TW,subscription,4.4944,14.457,1445.7009
+UCloud,uae-dubai,Dubai,AE,subscription,4.4944,14.457,1445.7009
+UCloud,uk-london,London,GB,subscription,4.4944,14.457,1445.7009
+UCloud,us-ca,Silicon Valley,US,subscription,4.4944,14.457,1445.7009
+UCloud,us-den,Denver,US,subscription,4.4944,14.457,1445.7009
+UCloud,us-ws,N. Virginia,US,subscription,4.4944,14.457,1445.7009
+UCloud,uz-tas,Tashkent,UZ,subscription,26.9664,26.9664,2696.6442
+UCloud,vn-sng,Ho Chi Minh City,VN,subscription,4.4944,14.457,1445.7009
+Volcengine,ap-southeast-1,Singapore,SG,subscription,2.9963,11.5356,1153.5644
+Volcengine,ap-southeast-3,Jakarta,ID,subscription,2.9963,11.5356,1153.5644
+Volcengine,cn-beijing,Beijing,CN,subscription,3.4457,14.4136,1441.3563
+Volcengine,cn-guangzhou,Guangzhou,CN,subscription,3.4457,14.4136,1441.3563
+Volcengine,cn-hongkong,Hong Kong,HK,subscription,2.9963,12.9589,1295.8873
+Volcengine,cn-shanghai,Shanghai,CN,subscription,3.4457,14.4136,1441.3563

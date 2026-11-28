@@ -1,0 +1,2003 @@
+provider,disk_type,category,media,pricing_model,region,region_name,country,usd_per_gib_month,currency,native_per_gib_month,max_iops,max_throughput_mbps
+AWS,gp2,balanced_ssd,SSD,per_gib,af-south-1,Cape Town,ZA,0.1309,USD,0.1309,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-east-1,Hong Kong,HK,0.132,USD,0.132,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-east-2,Taipei,TW,0.108,USD,0.108,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.114,USD,0.114,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-northeast-3,Osaka,JP,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-south-1,Mumbai,IN,0.114,USD,0.114,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-south-2,Hyderabad,IN,0.114,USD,0.114,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-2,Sydney,AU,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-3,Jakarta,ID,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-4,Melbourne,AU,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-5,Kuala Lumpur,MY,0.108,USD,0.108,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-6,Auckland,NZ,0.126,USD,0.126,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.108,USD,0.108,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ca-central-1,Montreal,CA,0.11,USD,0.11,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,ca-west-1,Calgary,CA,0.11,USD,0.11,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,cn-north-1,Beijing,CN,0.1118,CNY,0.746,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,cn-northwest-1,Yinchuan,CN,0.0995,CNY,0.664,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.119,USD,0.119,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-central-2,Zurich,CH,0.143,USD,0.143,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-north-1,Stockholm,SE,0.1045,USD,0.1045,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-south-1,Milan,IT,0.1155,USD,0.1155,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-south-2,Madrid,ES,0.11,USD,0.11,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-west-1,Dublin,IE,0.11,USD,0.11,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-west-2,London,GB,0.116,USD,0.116,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,eu-west-3,Paris,FR,0.116,USD,0.116,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,il-central-1,Tel Aviv,IL,0.132,USD,0.132,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,me-central-1,Dubai,AE,0.121,USD,0.121,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,me-south-1,Manama,BH,0.121,USD,0.121,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,mx-central-1,Mexico City,MX,0.105,USD,0.105,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.19,USD,0.19,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.1,USD,0.1,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,us-east-2,Ohio,US,0.1,USD,0.1,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.12,USD,0.12,16000,250
+AWS,gp2,balanced_ssd,SSD,per_gib,us-west-2,Oregon,US,0.1,USD,0.1,16000,250
+AWS,gp3,balanced_ssd,SSD,provisioned,af-south-1,Cape Town,ZA,0.1047,USD,0.1047,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-east-1,Hong Kong,HK,0.1056,USD,0.1056,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-east-2,Taipei,TW,0.0864,USD,0.0864,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-northeast-1,Tokyo,JP,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-northeast-2,Seoul,KR,0.0912,USD,0.0912,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-northeast-3,Osaka,JP,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-south-1,Mumbai,IN,0.0912,USD,0.0912,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-south-2,Hyderabad,IN,0.0912,USD,0.0912,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-1,Singapore,SG,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-2,Sydney,AU,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-3,Jakarta,ID,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-4,Melbourne,AU,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-5,Kuala Lumpur,MY,0.0864,USD,0.0864,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-6,Auckland,NZ,0.1008,USD,0.1008,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ap-southeast-7,Bangkok,TH,0.0864,USD,0.0864,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ca-central-1,Montreal,CA,0.088,USD,0.088,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,ca-west-1,Calgary,CA,0.088,USD,0.088,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,cn-north-1,Beijing,CN,0.0894,CNY,0.5968,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,cn-northwest-1,Yinchuan,CN,0.0796,CNY,0.5312,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-central-1,Frankfurt,DE,0.0952,USD,0.0952,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-central-2,Zurich,CH,0.1142,USD,0.1142,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-north-1,Stockholm,SE,0.0836,USD,0.0836,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-south-1,Milan,IT,0.0924,USD,0.0924,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-south-2,Madrid,ES,0.088,USD,0.088,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-west-1,Dublin,IE,0.088,USD,0.088,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-west-2,London,GB,0.0928,USD,0.0928,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,eu-west-3,Paris,FR,0.0928,USD,0.0928,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,il-central-1,Tel Aviv,IL,0.1056,USD,0.1056,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,me-central-1,Dubai,AE,0.0968,USD,0.0968,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,me-south-1,Manama,BH,0.0968,USD,0.0968,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,mx-central-1,Mexico City,MX,0.084,USD,0.084,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,sa-east-1,Sao Paulo,BR,0.152,USD,0.152,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,us-east-1,N. Virginia,US,0.08,USD,0.08,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,us-east-2,Ohio,US,0.08,USD,0.08,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,us-west-1,Silicon Valley,US,0.096,USD,0.096,80000,2000
+AWS,gp3,balanced_ssd,SSD,provisioned,us-west-2,Oregon,US,0.08,USD,0.08,80000,2000
+AWS,io1,perf_ssd,SSD,provisioned,af-south-1,Cape Town,ZA,0.1642,USD,0.1642,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-east-1,Hong Kong,HK,0.1518,USD,0.1518,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-east-2,Taipei,TW,0.1278,USD,0.1278,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-northeast-1,Tokyo,JP,0.142,USD,0.142,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-northeast-2,Seoul,KR,0.1278,USD,0.1278,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-northeast-3,Osaka,JP,0.142,USD,0.142,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-south-1,Mumbai,IN,0.131,USD,0.131,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-south-2,Hyderabad,IN,0.131,USD,0.131,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-1,Singapore,SG,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-2,Sydney,AU,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-3,Jakarta,ID,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-4,Melbourne,AU,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-5,Kuala Lumpur,MY,0.1242,USD,0.1242,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-6,Auckland,NZ,0.1449,USD,0.1449,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ap-southeast-7,Bangkok,TH,0.1242,USD,0.1242,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ca-central-1,Montreal,CA,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,ca-west-1,Calgary,CA,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,cn-north-1,Beijing,CN,0.1285,CNY,0.858,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,cn-northwest-1,Yinchuan,CN,0.1145,CNY,0.764,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-central-1,Frankfurt,DE,0.149,USD,0.149,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-central-2,Zurich,CH,0.179,USD,0.179,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-north-1,Stockholm,SE,0.1311,USD,0.1311,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-south-1,Milan,IT,0.1449,USD,0.1449,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-south-2,Madrid,ES,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-west-1,Dublin,IE,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-west-2,London,GB,0.145,USD,0.145,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,eu-west-3,Paris,FR,0.145,USD,0.145,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,il-central-1,Tel Aviv,IL,0.1656,USD,0.1656,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,me-central-1,Dubai,AE,0.1518,USD,0.1518,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,me-south-1,Manama,BH,0.1518,USD,0.1518,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,mx-central-1,Mexico City,MX,0.1313,USD,0.1313,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,sa-east-1,Sao Paulo,BR,0.238,USD,0.238,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,us-east-1,N. Virginia,US,0.125,USD,0.125,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,us-east-2,Ohio,US,0.125,USD,0.125,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,us-west-1,Silicon Valley,US,0.138,USD,0.138,64000,1000
+AWS,io1,perf_ssd,SSD,provisioned,us-west-2,Oregon,US,0.125,USD,0.125,64000,1000
+AWS,io2,perf_ssd,SSD,provisioned,af-south-1,Cape Town,ZA,0.1642,USD,0.1642,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-east-1,Hong Kong,HK,0.1518,USD,0.1518,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-east-2,Taipei,TW,0.1278,USD,0.1278,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-northeast-1,Tokyo,JP,0.142,USD,0.142,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-northeast-2,Seoul,KR,0.1278,USD,0.1278,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-northeast-3,Osaka,JP,0.142,USD,0.142,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-south-1,Mumbai,IN,0.131,USD,0.131,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-south-2,Hyderabad,IN,0.131,USD,0.131,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-1,Singapore,SG,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-2,Sydney,AU,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-3,Jakarta,ID,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-4,Melbourne,AU,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-5,Kuala Lumpur,MY,0.1242,USD,0.1242,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-6,Auckland,NZ,0.1449,USD,0.1449,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ap-southeast-7,Bangkok,TH,0.1242,USD,0.1242,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ca-central-1,Montreal,CA,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,ca-west-1,Calgary,CA,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,cn-north-1,Beijing,CN,0.1285,CNY,0.858,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,cn-northwest-1,Yinchuan,CN,0.1145,CNY,0.764,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-central-1,Frankfurt,DE,0.149,USD,0.149,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-central-2,Zurich,CH,0.179,USD,0.179,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-north-1,Stockholm,SE,0.1311,USD,0.1311,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-south-1,Milan,IT,0.1449,USD,0.1449,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-south-2,Madrid,ES,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-west-1,Dublin,IE,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-west-2,London,GB,0.145,USD,0.145,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,eu-west-3,Paris,FR,0.145,USD,0.145,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,il-central-1,Tel Aviv,IL,0.1656,USD,0.1656,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,me-central-1,Dubai,AE,0.1518,USD,0.1518,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,me-south-1,Manama,BH,0.1518,USD,0.1518,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,mx-central-1,Mexico City,MX,0.1313,USD,0.1313,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,sa-east-1,Sao Paulo,BR,0.238,USD,0.238,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,us-east-1,N. Virginia,US,0.125,USD,0.125,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,us-east-2,Ohio,US,0.125,USD,0.125,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,us-west-1,Silicon Valley,US,0.138,USD,0.138,256000,4000
+AWS,io2,perf_ssd,SSD,provisioned,us-west-2,Oregon,US,0.125,USD,0.125,256000,4000
+AWS,sc1,hdd,HDD,per_gib,af-south-1,Cape Town,ZA,0.0199,USD,0.0199,,250
+AWS,sc1,hdd,HDD,per_gib,ap-east-1,Hong Kong,HK,0.0198,USD,0.0198,,250
+AWS,sc1,hdd,HDD,per_gib,ap-east-2,Taipei,TW,0.0162,USD,0.0162,,250
+AWS,sc1,hdd,HDD,per_gib,ap-northeast-1,Tokyo,JP,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,ap-northeast-2,Seoul,KR,0.0174,USD,0.0174,,250
+AWS,sc1,hdd,HDD,per_gib,ap-northeast-3,Osaka,JP,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,ap-south-1,Mumbai,IN,0.0174,USD,0.0174,,250
+AWS,sc1,hdd,HDD,per_gib,ap-south-2,Hyderabad,IN,0.0174,USD,0.0174,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-1,Singapore,SG,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-2,Sydney,AU,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-3,Jakarta,ID,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-4,Melbourne,AU,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-5,Kuala Lumpur,MY,0.0162,USD,0.0162,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-6,Auckland,NZ,0.0189,USD,0.0189,,250
+AWS,sc1,hdd,HDD,per_gib,ap-southeast-7,Bangkok,TH,0.0162,USD,0.0162,,250
+AWS,sc1,hdd,HDD,per_gib,ca-central-1,Montreal,CA,0.0168,USD,0.0168,,250
+AWS,sc1,hdd,HDD,per_gib,ca-west-1,Calgary,CA,0.0168,USD,0.0168,,250
+AWS,sc1,hdd,HDD,per_gib,cn-north-1,Beijing,CN,0.0168,CNY,0.112,,250
+AWS,sc1,hdd,HDD,per_gib,cn-northwest-1,Yinchuan,CN,0.0149,CNY,0.0996,,250
+AWS,sc1,hdd,HDD,per_gib,eu-central-1,Frankfurt,DE,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,eu-central-2,Zurich,CH,0.022,USD,0.022,,250
+AWS,sc1,hdd,HDD,per_gib,eu-north-1,Stockholm,SE,0.016,USD,0.01596,,250
+AWS,sc1,hdd,HDD,per_gib,eu-south-1,Milan,IT,0.0176,USD,0.01764,,250
+AWS,sc1,hdd,HDD,per_gib,eu-south-2,Madrid,ES,0.0168,USD,0.0168,,250
+AWS,sc1,hdd,HDD,per_gib,eu-west-1,Dublin,IE,0.0168,USD,0.0168,,250
+AWS,sc1,hdd,HDD,per_gib,eu-west-2,London,GB,0.0174,USD,0.0174,,250
+AWS,sc1,hdd,HDD,per_gib,eu-west-3,Paris,FR,0.0174,USD,0.0174,,250
+AWS,sc1,hdd,HDD,per_gib,il-central-1,Tel Aviv,IL,0.0202,USD,0.0202,,250
+AWS,sc1,hdd,HDD,per_gib,me-central-1,Dubai,AE,0.0185,USD,0.01848,,250
+AWS,sc1,hdd,HDD,per_gib,me-south-1,Manama,BH,0.0185,USD,0.01848,,250
+AWS,sc1,hdd,HDD,per_gib,mx-central-1,Mexico City,MX,0.0158,USD,0.0158,,250
+AWS,sc1,hdd,HDD,per_gib,sa-east-1,Sao Paulo,BR,0.0288,USD,0.0288,,250
+AWS,sc1,hdd,HDD,per_gib,us-east-1,N. Virginia,US,0.015,USD,0.015,,250
+AWS,sc1,hdd,HDD,per_gib,us-east-2,Ohio,US,0.015,USD,0.015,,250
+AWS,sc1,hdd,HDD,per_gib,us-west-1,Silicon Valley,US,0.018,USD,0.018,,250
+AWS,sc1,hdd,HDD,per_gib,us-west-2,Oregon,US,0.015,USD,0.015,,250
+AWS,st1,hdd,HDD,per_gib,af-south-1,Cape Town,ZA,0.0595,USD,0.0595,,500
+AWS,st1,hdd,HDD,per_gib,ap-east-1,Hong Kong,HK,0.0594,USD,0.0594,,500
+AWS,st1,hdd,HDD,per_gib,ap-east-2,Taipei,TW,0.0486,USD,0.0486,,500
+AWS,st1,hdd,HDD,per_gib,ap-northeast-1,Tokyo,JP,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,ap-northeast-2,Seoul,KR,0.051,USD,0.051,,500
+AWS,st1,hdd,HDD,per_gib,ap-northeast-3,Osaka,JP,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,ap-south-1,Mumbai,IN,0.051,USD,0.051,,500
+AWS,st1,hdd,HDD,per_gib,ap-south-2,Hyderabad,IN,0.051,USD,0.051,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-1,Singapore,SG,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-2,Sydney,AU,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-3,Jakarta,ID,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-4,Melbourne,AU,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-5,Kuala Lumpur,MY,0.0486,USD,0.0486,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-6,Auckland,NZ,0.0567,USD,0.0567,,500
+AWS,st1,hdd,HDD,per_gib,ap-southeast-7,Bangkok,TH,0.0486,USD,0.0486,,500
+AWS,st1,hdd,HDD,per_gib,ca-central-1,Montreal,CA,0.05,USD,0.05,,500
+AWS,st1,hdd,HDD,per_gib,ca-west-1,Calgary,CA,0.05,USD,0.05,,500
+AWS,st1,hdd,HDD,per_gib,cn-north-1,Beijing,CN,0.0503,CNY,0.336,,500
+AWS,st1,hdd,HDD,per_gib,cn-northwest-1,Yinchuan,CN,0.0448,CNY,0.299,,500
+AWS,st1,hdd,HDD,per_gib,eu-central-1,Frankfurt,DE,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,eu-central-2,Zurich,CH,0.065,USD,0.065,,500
+AWS,st1,hdd,HDD,per_gib,eu-north-1,Stockholm,SE,0.0475,USD,0.0475,,500
+AWS,st1,hdd,HDD,per_gib,eu-south-1,Milan,IT,0.0525,USD,0.0525,,500
+AWS,st1,hdd,HDD,per_gib,eu-south-2,Madrid,ES,0.05,USD,0.05,,500
+AWS,st1,hdd,HDD,per_gib,eu-west-1,Dublin,IE,0.05,USD,0.05,,500
+AWS,st1,hdd,HDD,per_gib,eu-west-2,London,GB,0.053,USD,0.053,,500
+AWS,st1,hdd,HDD,per_gib,eu-west-3,Paris,FR,0.053,USD,0.053,,500
+AWS,st1,hdd,HDD,per_gib,il-central-1,Tel Aviv,IL,0.06,USD,0.06,,500
+AWS,st1,hdd,HDD,per_gib,me-central-1,Dubai,AE,0.055,USD,0.055,,500
+AWS,st1,hdd,HDD,per_gib,me-south-1,Manama,BH,0.055,USD,0.055,,500
+AWS,st1,hdd,HDD,per_gib,mx-central-1,Mexico City,MX,0.0473,USD,0.0473,,500
+AWS,st1,hdd,HDD,per_gib,sa-east-1,Sao Paulo,BR,0.086,USD,0.086,,500
+AWS,st1,hdd,HDD,per_gib,us-east-1,N. Virginia,US,0.045,USD,0.045,,500
+AWS,st1,hdd,HDD,per_gib,us-east-2,Ohio,US,0.045,USD,0.045,,500
+AWS,st1,hdd,HDD,per_gib,us-west-1,Silicon Valley,US,0.054,USD,0.054,,500
+AWS,st1,hdd,HDD,per_gib,us-west-2,Oregon,US,0.045,USD,0.045,,500
+AWS,standard,hdd,HDD,fixed,af-south-1,Cape Town,ZA,0.0654,USD,0.06545,,40
+AWS,standard,hdd,HDD,fixed,ap-east-1,Hong Kong,HK,0.088,USD,0.088,,40
+AWS,standard,hdd,HDD,fixed,ap-east-2,Taipei,TW,0.072,USD,0.072,,40
+AWS,standard,hdd,HDD,fixed,ap-northeast-1,Tokyo,JP,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-northeast-2,Seoul,KR,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-northeast-3,Osaka,JP,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-south-1,Mumbai,IN,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-south-2,Hyderabad,IN,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-1,Singapore,SG,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-2,Sydney,AU,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-3,Jakarta,ID,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-4,Melbourne,AU,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-5,Kuala Lumpur,MY,0.072,USD,0.072,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-6,Auckland,NZ,0.084,USD,0.084,,40
+AWS,standard,hdd,HDD,fixed,ap-southeast-7,Bangkok,TH,0.072,USD,0.072,,40
+AWS,standard,hdd,HDD,fixed,ca-central-1,Montreal,CA,0.055,USD,0.055,,40
+AWS,standard,hdd,HDD,fixed,ca-west-1,Calgary,CA,0.055,USD,0.055,,40
+AWS,standard,hdd,HDD,fixed,cn-north-1,Beijing,CN,0.0613,CNY,0.409,,40
+AWS,standard,hdd,HDD,fixed,cn-northwest-1,Yinchuan,CN,0.0545,CNY,0.364,,40
+AWS,standard,hdd,HDD,fixed,eu-central-1,Frankfurt,DE,0.059,USD,0.059,,40
+AWS,standard,hdd,HDD,fixed,eu-central-2,Zurich,CH,0.071,USD,0.071,,40
+AWS,standard,hdd,HDD,fixed,eu-north-1,Stockholm,SE,0.0523,USD,0.05225,,40
+AWS,standard,hdd,HDD,fixed,eu-south-1,Milan,IT,0.0578,USD,0.05775,,40
+AWS,standard,hdd,HDD,fixed,eu-south-2,Madrid,ES,0.055,USD,0.055,,40
+AWS,standard,hdd,HDD,fixed,eu-west-1,Dublin,IE,0.055,USD,0.055,,40
+AWS,standard,hdd,HDD,fixed,eu-west-2,London,GB,0.058,USD,0.058,,40
+AWS,standard,hdd,HDD,fixed,eu-west-3,Paris,FR,0.058,USD,0.058,,40
+AWS,standard,hdd,HDD,fixed,il-central-1,Tel Aviv,IL,0.066,USD,0.066,,40
+AWS,standard,hdd,HDD,fixed,me-central-1,Dubai,AE,0.0605,USD,0.0605,,40
+AWS,standard,hdd,HDD,fixed,me-south-1,Manama,BH,0.0605,USD,0.0605,,40
+AWS,standard,hdd,HDD,fixed,mx-central-1,Mexico City,MX,0.053,USD,0.053,,40
+AWS,standard,hdd,HDD,fixed,sa-east-1,Sao Paulo,BR,0.12,USD,0.12,,40
+AWS,standard,hdd,HDD,fixed,us-east-1,N. Virginia,US,0.05,USD,0.05,,40
+AWS,standard,hdd,HDD,fixed,us-east-2,Ohio,US,0.05,USD,0.05,,40
+AWS,standard,hdd,HDD,fixed,us-west-1,Silicon Valley,US,0.08,USD,0.08,,40
+AWS,standard,hdd,HDD,fixed,us-west-2,Oregon,US,0.05,USD,0.05,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-northeast-1,Tokyo,JP,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-northeast-2,Seoul,KR,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-southeast-1,Singapore,SG,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-southeast-5,Jakarta,ID,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-southeast-6,Manila,PH,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,ap-southeast-7,Bangkok,TH,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-beijing,Beijing,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-chengdu,Chengdu,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-guangzhou,Guangzhou,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-hangzhou,Hangzhou,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-heyuan,Heyuan,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-hongkong,Hong Kong,HK,0.0569,CNY,0.38,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-huhehaote,Hohhot,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-qingdao,Qingdao,CN,0.0404,CNY,0.27,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-shanghai,Shanghai,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-shenzhen,Shenzhen,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-wulanchabu,Ulanqab,CN,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.036,CNY,0.24,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,eu-central-1,Frankfurt,DE,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,eu-west-1,London,GB,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,eu-west-3,eu-west-3,,0.0494,CNY,0.33,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,me-east-1,Dubai,AE,0.0449,CNY,0.3,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,us-east-1,N. Virginia,US,0.0749,CNY,0.5,,40
+AlibabaCloud,cloud,hdd,HDD,per_gib,us-west-1,Silicon Valley,US,0.0539,CNY,0.36,,40
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-northeast-1,Tokyo,JP,0.1573,CNY,1.05,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-northeast-2,Seoul,KR,0.1543,CNY,1.03,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-southeast-1,Singapore,SG,0.1543,CNY,1.03,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-southeast-3,Kuala Lumpur,MY,0.1453,CNY,0.97,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-southeast-5,Jakarta,ID,0.1618,CNY,1.08,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-southeast-6,Manila,PH,0.1798,CNY,1.2,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-southeast-7,Bangkok,TH,0.1618,CNY,1.08,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,ap-southeast-8,Jakarta,ID,0.1543,CNY,1.03,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-beijing,Beijing,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-chengdu,Chengdu,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-guangzhou,Guangzhou,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-hangzhou,Hangzhou,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-heyuan,Heyuan,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-heyuan-acdr-1,Heyuan,CN,0.1948,CNY,1.3,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-hongkong,Hong Kong,HK,0.1693,CNY,1.13,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-huhehaote,Hohhot,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-qingdao,Qingdao,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-qingdao-acdr-ut-1,Qingdao,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-shanghai,Shanghai,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-shenzhen,Shenzhen,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-wuhan-lr,Wuhan,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-wulanchabu,Ulanqab,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-wulanchabu-gic-1,Ulanqab,CN,0.1948,CNY,1.3,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-zhangjiakou,Zhangjiakou,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,cn-zhongwei,Zhongwei,CN,0.1498,CNY,1,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,eu-central-1,Frankfurt,DE,0.1513,CNY,1.01,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,eu-west-1,London,GB,0.1483,CNY,0.99,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,eu-west-2,London,GB,0.1513,CNY,1.01,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,eu-west-3,eu-west-3,,0.1663,CNY,1.11,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,me-east-1,Dubai,AE,0.2697,CNY,1.8,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,na-south-1,Mexico City,MX,0.1468,CNY,0.98,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,sa-east-1,Sao Paulo,BR,0.1768,CNY,1.18,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,us-east-1,N. Virginia,US,0.1288,CNY,0.86,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,us-southeast-1,us-southeast-1,,0.1288,CNY,0.86,1000000,1131
+AlibabaCloud,cloud_auto,ultra,SSD,provisioned,us-west-1,Silicon Valley,US,0.1543,CNY,1.03,1000000,1131
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.0539,CNY,0.36,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.0509,CNY,0.34,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.0468,CNY,0.31244,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.0416,CNY,0.27740000000000004,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,eu-west-1,London,GB,0.0509,CNY,0.34,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.0584,CNY,0.39,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.0629,CNY,0.42,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_efficiency,standard_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.0524,CNY,0.35,5000,140
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.0794,CNY,0.53,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.0764,CNY,0.51,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.0764,CNY,0.51,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.0734,CNY,0.49,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.0809,CNY,0.54,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.0914,CNY,0.61,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.0809,CNY,0.54,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.0764,CNY,0.51,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-hangzhou-acdr-ut-1,Hangzhou,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-heyuan-acdr-1,Heyuan,CN,0.0974,CNY,0.65,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.0854,CNY,0.57,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-qingdao-acdr-ut-1,Qingdao,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-wuhan-lr,Wuhan,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-wulanchabu-acdr-1,Ulanqab,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-wulanchabu-acdr-ut-1,Ulanqab,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-wulanchabu-gic-1,Ulanqab,CN,0.0974,CNY,0.65,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.0749,CNY,0.5,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.0764,CNY,0.51,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-west-1,London,GB,0.0734,CNY,0.49,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-west-2,London,GB,0.0764,CNY,0.51,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.0839,CNY,0.56,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.1348,CNY,0.9,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.0734,CNY,0.49,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.0884,CNY,0.59,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.0644,CNY,0.43,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.0644,CNY,0.43,10000,180
+AlibabaCloud,cloud_essd_PL0,balanced_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.0764,CNY,0.51,10000,180
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.1573,CNY,1.05,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.1543,CNY,1.03,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.1543,CNY,1.03,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.1453,CNY,0.97,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.1618,CNY,1.08,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.1798,CNY,1.2,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.1618,CNY,1.08,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.1543,CNY,1.03,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-hangzhou-acdr-ut-1,Hangzhou,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-heyuan-acdr-1,Heyuan,CN,0.1948,CNY,1.3,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.1693,CNY,1.13,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-qingdao-acdr-ut-1,Qingdao,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-wuhan-lr,Wuhan,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-wulanchabu-acdr-1,Ulanqab,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-wulanchabu-acdr-ut-1,Ulanqab,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-wulanchabu-gic-1,Ulanqab,CN,0.1948,CNY,1.3,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.1498,CNY,1,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.1513,CNY,1.01,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-west-1,London,GB,0.1483,CNY,0.99,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-west-2,London,GB,0.1513,CNY,1.01,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.1663,CNY,1.11,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.2697,CNY,1.8,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.1468,CNY,0.98,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.1768,CNY,1.18,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.1288,CNY,0.86,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.1288,CNY,0.86,50000,350
+AlibabaCloud,cloud_essd_PL1,perf_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.1543,CNY,1.03,50000,350
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.3161,CNY,2.11,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.3071,CNY,2.05,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.3086,CNY,2.06,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.2921,CNY,1.95,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.3236,CNY,2.16,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.3611,CNY,2.41,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.3236,CNY,2.16,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.3086,CNY,2.06,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-hangzhou-acdr-ut-1,Hangzhou,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-heyuan-acdr-1,Heyuan,CN,0.3895,CNY,2.6,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.3401,CNY,2.27,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-qingdao-acdr-ut-1,Qingdao,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-wuhan-lr,Wuhan,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-wulanchabu-acdr-1,Ulanqab,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-wulanchabu-acdr-ut-1,Ulanqab,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-wulanchabu-gic-1,Ulanqab,CN,0.3895,CNY,2.6,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.2996,CNY,2,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.3056,CNY,2.04,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,eu-west-1,London,GB,0.2966,CNY,1.98,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,eu-west-2,London,GB,0.3056,CNY,2.04,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.3356,CNY,2.24,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.5393,CNY,3.6,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.2951,CNY,1.97,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.3536,CNY,2.36,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.2577,CNY,1.72,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.2577,CNY,1.72,100000,750
+AlibabaCloud,cloud_essd_PL2,perf_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.3086,CNY,2.06,100000,750
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.6337,CNY,4.23,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-northeast-2,Seoul,KR,0.6142,CNY,4.1,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-southeast-1,Singapore,SG,0.6187,CNY,4.13,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.5828,CNY,3.89,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.6472,CNY,4.32,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-southeast-6,Manila,PH,0.7206,CNY,4.81,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.6472,CNY,4.32,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.6187,CNY,4.13,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-beijing,Beijing,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-chengdu,Chengdu,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-hangzhou-acdr-ut-1,Hangzhou,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-heyuan,Heyuan,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-heyuan-acdr-1,Heyuan,CN,0.779,CNY,5.2,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.6802,CNY,4.54,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-qingdao,Qingdao,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-qingdao-acdr-ut-1,Qingdao,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-shanghai,Shanghai,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-wuhan-lr,Wuhan,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-wulanchabu-acdr-1,Ulanqab,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-wulanchabu-acdr-ut-1,Ulanqab,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-wulanchabu-gic-1,Ulanqab,CN,0.779,CNY,5.2,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.5993,CNY,4,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,eu-central-1,Frankfurt,DE,0.6097,CNY,4.07,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,eu-west-1,London,GB,0.5948,CNY,3.97,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,eu-west-2,London,GB,0.6097,CNY,4.07,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,eu-west-3,eu-west-3,,0.6712,CNY,4.48,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,me-east-1,Dubai,AE,1.0787,CNY,7.2,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,na-south-1,Mexico City,MX,0.5888,CNY,3.93,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.7071,CNY,4.72,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,us-east-1,N. Virginia,US,0.5154,CNY,3.44,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,us-southeast-1,us-southeast-1,,0.5154,CNY,3.44,1000000,4000
+AlibabaCloud,cloud_essd_PL3,ultra,SSD,per_gib,us-west-1,Silicon Valley,US,0.6187,CNY,4.13,1000000,4000
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.0539,CNY,0.36,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.0509,CNY,0.34,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-heyuan-acdr-1,Heyuan,CN,0.0689,CNY,0.46,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-qingdao-acdr-ut-1,Qingdao,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-wuhan-lr,Wuhan,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-wulanchabu-gic-1,Ulanqab,CN,0.0689,CNY,0.46,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-west-1,London,GB,0.0509,CNY,0.34,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-west-2,London,GB,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.0584,CNY,0.39,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.0629,CNY,0.42,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.0629,CNY,0.42,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.0569,CNY,0.38,6000,150
+AlibabaCloud,cloud_essd_entry,standard_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.0524,CNY,0.35,6000,150
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.2247,CNY,1.5,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.1903,CNY,1.27,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.1813,CNY,1.21,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.1903,CNY,1.27,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.1903,CNY,1.27,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.1348,CNY,0.9,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.1498,CNY,1,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.1199,CNY,0.8,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.1903,CNY,1.27,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,eu-west-1,London,GB,0.2067,CNY,1.38,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.2097,CNY,1.4,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.2487,CNY,1.66,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.1903,CNY,1.27,25000,300
+AlibabaCloud,cloud_ssd,balanced_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.1723,CNY,1.15,25000,300
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-northeast-1,Tokyo,JP,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-northeast-2,Seoul,KR,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-southeast-1,Singapore,SG,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-southeast-5,Jakarta,ID,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-southeast-6,Manila,PH,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,ap-southeast-7,Bangkok,TH,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-beijing,Beijing,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-chengdu,Chengdu,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-guangzhou,Guangzhou,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-hangzhou,Hangzhou,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-heyuan,Heyuan,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-hongkong,Hong Kong,HK,0.058,USD,0.057999999999999996,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-huhehaote,Hohhot,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-qingdao,Qingdao,CN,0.042,USD,0.042,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-shanghai,Shanghai,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-shenzhen,Shenzhen,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-wulanchabu,Ulanqab,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,eu-central-1,Frankfurt,DE,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,eu-west-1,London,GB,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,eu-west-3,eu-west-3,,0.0506,USD,0.0506,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,me-central-1,Riyadh,SA,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,me-east-1,Dubai,AE,0.046,USD,0.046,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,us-east-1,N. Virginia,US,0.077,USD,0.077,,40
+AlibabaCloudIntl,cloud,hdd,HDD,per_gib,us-west-1,Silicon Valley,US,0.077,USD,0.077,,40
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-northeast-1,Tokyo,JP,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-northeast-2,Seoul,KR,0.1444,USD,0.1444,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-southeast-1,Singapore,SG,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-southeast-3,Kuala Lumpur,MY,0.1368,USD,0.1368,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-southeast-5,Jakarta,ID,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-southeast-6,Manila,PH,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-southeast-7,Bangkok,TH,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,ap-southeast-8,Jakarta,ID,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-beijing,Beijing,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-chengdu,Chengdu,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-guangzhou,Guangzhou,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-hangzhou,Hangzhou,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-heyuan,Heyuan,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-hongkong,Hong Kong,HK,0.1672,USD,0.1672,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-huhehaote,Hohhot,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-qingdao,Qingdao,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-shanghai,Shanghai,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-shenzhen,Shenzhen,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-wulanchabu,Ulanqab,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-zhangjiakou,Zhangjiakou,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,cn-zhongwei,Zhongwei,CN,0.153,USD,0.153,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,eu-central-1,Frankfurt,DE,0.1506,USD,0.1506,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,eu-west-1,London,GB,0.1468,USD,0.14679999999999999,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,eu-west-2,London,GB,0.1506,USD,0.1506,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,eu-west-3,eu-west-3,,0.1656,USD,0.1656,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,me-central-1,Riyadh,SA,0.2688,USD,0.2688,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,me-east-1,Dubai,AE,0.259,USD,0.259,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,na-south-1,Mexico City,MX,0.14,USD,0.14,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,sa-east-1,Sao Paulo,BR,0.168,USD,0.168,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,us-east-1,N. Virginia,US,0.1266,USD,0.1266,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,us-southeast-1,us-southeast-1,,0.1266,USD,0.1266,1000000,1131
+AlibabaCloudIntl,cloud_auto,ultra,SSD,provisioned,us-west-1,Silicon Valley,US,0.152,USD,0.152,1000000,1131
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.052,USD,0.052000000000000005,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.049,USD,0.049,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,eu-west-1,London,GB,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.0561,USD,0.056100000000000004,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,me-central-1,Riyadh,SA,0.077,USD,0.077,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.062,USD,0.062,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_efficiency,standard_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.051,USD,0.051,5000,140
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.0722,USD,0.0722,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.0684,USD,0.0684,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.0836,USD,0.0836,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.0765,USD,0.0765,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.0753,USD,0.0753,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-west-1,London,GB,0.0734,USD,0.07339999999999999,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-west-2,London,GB,0.0753,USD,0.0753,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.0829,USD,0.08289999999999999,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,me-central-1,Riyadh,SA,0.1344,USD,0.1344,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.1295,USD,0.1295,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.07,USD,0.07,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.084,USD,0.084,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.0633,USD,0.0633,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.0633,USD,0.0633,10000,180
+AlibabaCloudIntl,cloud_essd_PL0,balanced_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.076,USD,0.076,10000,180
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.1444,USD,0.1444,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.1368,USD,0.1368,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.1672,USD,0.1672,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.153,USD,0.153,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.1506,USD,0.1506,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-west-1,London,GB,0.1468,USD,0.14679999999999999,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-west-2,London,GB,0.1506,USD,0.1506,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.1656,USD,0.1656,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,me-central-1,Riyadh,SA,0.2688,USD,0.2688,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.259,USD,0.259,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.14,USD,0.14,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.168,USD,0.168,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.1266,USD,0.1266,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.1266,USD,0.1266,50000,350
+AlibabaCloudIntl,cloud_essd_PL1,perf_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.152,USD,0.152,50000,350
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.052,USD,0.052000000000000005,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.049,USD,0.049,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,ap-southeast-8,Jakarta,ID,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,cn-zhongwei,Zhongwei,CN,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-west-1,London,GB,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-west-2,London,GB,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.0561,USD,0.056100000000000004,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,me-central-1,Riyadh,SA,0.077,USD,0.077,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.062,USD,0.062,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,na-south-1,Mexico City,MX,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,sa-east-1,Sao Paulo,BR,0.0612,USD,0.061200000000000004,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,us-southeast-1,us-southeast-1,,0.0564,USD,0.0564,6000,150
+AlibabaCloudIntl,cloud_essd_entry,standard_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.051,USD,0.051,6000,150
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-northeast-1,Tokyo,JP,0.219,USD,0.21899999999999997,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-northeast-2,Seoul,KR,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.187,USD,0.187,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-3,Kuala Lumpur,MY,0.178,USD,0.17800000000000002,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-5,Jakarta,ID,0.187,USD,0.187,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-6,Manila,PH,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,ap-southeast-7,Bangkok,TH,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-chengdu,Chengdu,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-hangzhou,Hangzhou,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-heyuan,Heyuan,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.187,USD,0.187,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-huhehaote,Hohhot,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-qingdao,Qingdao,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-shenzhen,Shenzhen,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-wulanchabu,Ulanqab,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,cn-zhangjiakou,Zhangjiakou,CN,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,eu-central-1,Frankfurt,DE,0.204,USD,0.204,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,eu-west-1,London,GB,0.204,USD,0.204,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,eu-west-3,eu-west-3,,0.2244,USD,0.22440000000000002,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,me-central-1,Riyadh,SA,0.153,USD,0.153,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.219,USD,0.21899999999999997,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,us-east-1,N. Virginia,US,0.187,USD,0.187,25000,300
+AlibabaCloudIntl,cloud_ssd,balanced_ssd,SSD,per_gib,us-west-1,Silicon Valley,US,0.144,USD,0.14400000000000002,25000,300
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,australiacentral,Canberra,AU,0.11,USD,0.87,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,australiacentral2,Canberra,AU,0.11,USD,0.87,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,australiaeast,Sydney,AU,0.11,USD,0.87,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,australiasoutheast,Melbourne,AU,0.11,USD,0.84,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,austriaeast,Vienna,AT,0.121,USD,0.725892,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,belgiumcentral,Brussels,BE,0.121,USD,0.725892,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,brazilsouth,Sao Paulo,BR,0.19,USD,1.2,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,brazilsoutheast,Rio de Janeiro,BR,0.247,USD,1.482,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,canadacentral,Toronto,CA,0.11,USD,0.72,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,canadaeast,Quebec City,CA,0.11,USD,0.72,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,centralindia,Pune,IN,0.11,USD,0.84,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,centralus,Iowa,US,0.11,USD,0.738,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,chilecentral,Santiago,CL,0.1403,USD,0.842074,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,denmarkeast,Copenhagen,DK,0.121,USD,0.725892,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,eastasia,Hong Kong,HK,0.121,USD,0.93,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,eastus,N. Virginia,US,0.11,USD,0.6,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,eastus2,N. Virginia,US,0.1,USD,0.6,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,francecentral,Paris,FR,0.1331,USD,0.75,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,francesouth,Marseille,FR,0.173,USD,0.978,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,germanynorth,Berlin,DE,0.169,USD,0.96,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,germanywestcentral,Frankfurt,DE,0.121,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,indiasouthcentral,Chennai,IN,0.11,USD,0.84,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,indonesiacentral,Jakarta,ID,0.11,USD,0.66,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,israelcentral,Tel Aviv,IL,0.12,USD,0.792,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,israelnorthwest,Tel Aviv,IL,0.12,USD,0.792,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,italynorth,Milan,IT,0.121,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,japaneast,Tokyo,JP,0.1265,USD,0.87,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,japanwest,Osaka,JP,0.115,USD,0.93,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,jioindiacentral,Nagpur,IN,0.11,USD,0.84,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,jioindiawest,Jamnagar,IN,0.11,USD,0.84,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,koreacentral,Seoul,KR,0.11,USD,0.81,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,koreasouth,Busan,KR,0.11,USD,0.75,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,malaysiawest,Kuala Lumpur,MY,0.11,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,mexicocentral,Mexico City,MX,0.121,USD,0.725926,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,newzealandnorth,Auckland,NZ,0.11,USD,0.9135,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,northcentralus,Chicago,US,0.11,USD,0.72,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,northeurope,Dublin,IE,0.11,USD,0.72,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,norwayeast,Oslo,NO,0.1331,USD,0.858,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,norwaywest,Stavanger,NO,0.173,USD,1.115,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,perth,Perth,AU,0.154,USD,1.218261,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,polandcentral,Warsaw,PL,0.121,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,qatarcentral,Doha,QA,0.12,USD,0.792,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,saudiarabiaeast,saudiarabiaeast,,0.12,USD,0.792,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,southafricanorth,Johannesburg,ZA,0.134,USD,0.876,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,southafricawest,Cape Town,ZA,0.168,USD,1.08,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,southcentralus,San Antonio,US,0.1,USD,0.72,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,southeastasia,Singapore,SG,0.11,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,southeastasia3,southeastasia3,,0.11,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,southindia,Chennai,IN,0.099,USD,0.906,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,spaincentral,Madrid,ES,0.121,USD,0.725892,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,swedencentral,Stockholm,SE,0.121,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,swedensouth,Malmo,SE,0.1573,USD,1.014,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,switzerlandnorth,Zurich,CH,0.1331,USD,0.858,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,switzerlandwest,Geneva,CH,0.173,USD,1.0296,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,uaecentral,Abu Dhabi,AE,0.156,USD,1.008,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,uaenorth,Dubai,AE,0.12,USD,0.792,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,uksouth,London,GB,0.1331,USD,0.75,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,ukwest,Cardiff,GB,0.1331,USD,0.786,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,usgovarizona,Phoenix,US,0.11,USD,0.75,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,usgovtexas,San Antonio,US,0.11,USD,0.75,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,usgovvirginia,N. Virginia,US,0.11,USD,0.75,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,westcentralus,Cheyenne,US,0.1,USD,0.72,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,westeurope,Amsterdam,NL,0.121,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,westindia,Mumbai,IN,0.11,USD,0.828,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,westus,Silicon Valley,US,0.11,USD,0.78,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,westus2,Seattle,US,0.1,USD,0.6,20000,900
+Azure,PremiumSSD,balanced_ssd,SSD,size_tier,westus3,Phoenix,US,0.1,USD,0.6,20000,900
+Azure,StandardHDD,hdd,HDD,size_tier,australiacentral,Canberra,AU,0.064,USD,2.4576,,
+Azure,StandardHDD,hdd,HDD,size_tier,australiacentral2,Canberra,AU,0.064,USD,2.4576,,
+Azure,StandardHDD,hdd,HDD,size_tier,australiaeast,Sydney,AU,0.064,USD,2.4576,,
+Azure,StandardHDD,hdd,HDD,size_tier,australiasoutheast,Melbourne,AU,0.064,USD,2.4576,,
+Azure,StandardHDD,hdd,HDD,size_tier,austriaeast,Vienna,AT,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,belgiumcentral,Brussels,BE,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,brazilsouth,Sao Paulo,BR,0.096,USD,3.6864,,
+Azure,StandardHDD,hdd,HDD,size_tier,brazilsoutheast,Rio de Janeiro,BR,0.1248,USD,4.79232,,
+Azure,StandardHDD,hdd,HDD,size_tier,canadacentral,Toronto,CA,0.044,USD,1.69,,
+Azure,StandardHDD,hdd,HDD,size_tier,canadaeast,Quebec City,CA,0.044,USD,1.69,,
+Azure,StandardHDD,hdd,HDD,size_tier,centralindia,Pune,IN,0.044,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,centralus,Iowa,US,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,chilecentral,Santiago,CL,0.056,USD,2.1504,,
+Azure,StandardHDD,hdd,HDD,size_tier,denmarkeast,Copenhagen,DK,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,eastasia,Hong Kong,HK,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,eastus,N. Virginia,US,0.0291,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,eastus2,N. Virginia,US,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,francecentral,Paris,FR,0.0385,USD,1.69,,
+Azure,StandardHDD,hdd,HDD,size_tier,francesouth,Marseille,FR,0.04,USD,2.197,,
+Azure,StandardHDD,hdd,HDD,size_tier,germanynorth,Berlin,DE,0.0454,USD,1.997,,
+Azure,StandardHDD,hdd,HDD,size_tier,germanywestcentral,Frankfurt,DE,0.0349,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,indiasouthcentral,Chennai,IN,0.044,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,indonesiacentral,Jakarta,ID,0.036,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,israelcentral,Tel Aviv,IL,0.0384,USD,1.8432,,
+Azure,StandardHDD,hdd,HDD,size_tier,israelnorthwest,Tel Aviv,IL,0.0384,USD,1.8432,,
+Azure,StandardHDD,hdd,HDD,size_tier,italynorth,Milan,IT,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,japaneast,Tokyo,JP,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,japanwest,Osaka,JP,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,jioindiacentral,Nagpur,IN,0.044,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,jioindiawest,Jamnagar,IN,0.044,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,koreacentral,Seoul,KR,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,koreasouth,Busan,KR,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,malaysiawest,Kuala Lumpur,MY,0.036,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,mexicocentral,Mexico City,MX,0.044,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,newzealandnorth,Auckland,NZ,0.0672,USD,2.58048,,
+Azure,StandardHDD,hdd,HDD,size_tier,northcentralus,Chicago,US,0.032,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,northeurope,Dublin,IE,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,norwayeast,Oslo,NO,0.044,USD,1.69,,
+Azure,StandardHDD,hdd,HDD,size_tier,norwaywest,Stavanger,NO,0.0572,USD,2.196,,
+Azure,StandardHDD,hdd,HDD,size_tier,polandcentral,Warsaw,PL,0.0349,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,qatarcentral,Doha,QA,0.0384,USD,1.8432,,
+Azure,StandardHDD,hdd,HDD,size_tier,saudiarabiaeast,saudiarabiaeast,,0.0384,USD,1.8432,,
+Azure,StandardHDD,hdd,HDD,size_tier,southafricanorth,Johannesburg,ZA,0.0429,USD,2.058,,
+Azure,StandardHDD,hdd,HDD,size_tier,southafricawest,Cape Town,ZA,0.0538,USD,2.58,,
+Azure,StandardHDD,hdd,HDD,size_tier,southcentralus,San Antonio,US,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,southeastasia,Singapore,SG,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,southeastasia3,southeastasia3,,0.036,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,southindia,Chennai,IN,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,spaincentral,Madrid,ES,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,swedencentral,Stockholm,SE,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,swedensouth,Malmo,SE,0.052,USD,1.9968,,
+Azure,StandardHDD,hdd,HDD,size_tier,switzerlandnorth,Zurich,CH,0.0437,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,switzerlandwest,Geneva,CH,0.0567,USD,2.196572,,
+Azure,StandardHDD,hdd,HDD,size_tier,uaecentral,Abu Dhabi,AE,0.0499,USD,1.9968,,
+Azure,StandardHDD,hdd,HDD,size_tier,uaenorth,Dubai,AE,0.0384,USD,1.8432,,
+Azure,StandardHDD,hdd,HDD,size_tier,uksouth,London,GB,0.0352,USD,1.69,,
+Azure,StandardHDD,hdd,HDD,size_tier,ukwest,Cardiff,GB,0.044,USD,1.69,,
+Azure,StandardHDD,hdd,HDD,size_tier,usgovarizona,Phoenix,US,0.044,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,usgovtexas,San Antonio,US,0.044,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,usgovvirginia,N. Virginia,US,0.044,USD,1.68,,
+Azure,StandardHDD,hdd,HDD,size_tier,westcentralus,Cheyenne,US,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,westeurope,Amsterdam,NL,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,westindia,Mumbai,IN,0.044,USD,1.6896,,
+Azure,StandardHDD,hdd,HDD,size_tier,westus,Silicon Valley,US,0.04,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,westus2,Seattle,US,0.0291,USD,1.536,,
+Azure,StandardHDD,hdd,HDD,size_tier,westus3,Phoenix,US,0.0291,USD,1.536,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,attatlanta1,Atlanta,US,0.075,USD,2.4,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,attdallas1,Dallas,US,0.075,USD,0.6,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,australiacentral,Canberra,AU,0.102,USD,0.51,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,australiacentral2,Canberra,AU,0.102,USD,0.51,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,australiaeast,Sydney,AU,0.102,USD,0.408,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,australiasoutheast,Melbourne,AU,0.102,USD,0.408,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,austriaeast,Vienna,AT,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,belgiumcentral,Brussels,BE,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,brazilsouth,Sao Paulo,BR,0.14,USD,0.56,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,brazilsoutheast,Rio de Janeiro,BR,0.2106,USD,0.8424,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,canadacentral,Toronto,CA,0.0825,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,canadaeast,Quebec City,CA,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,centralindia,Pune,IN,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,centralus,Iowa,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,chilecentral,Santiago,CL,0.105,USD,0.42,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,denmarkeast,Copenhagen,DK,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,eastasia,Hong Kong,HK,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,eastus,N. Virginia,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,eastus2,N. Virginia,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,francecentral,Paris,FR,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,francesouth,Marseille,FR,0.1072,USD,0.43,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,germanynorth,Berlin,DE,0.0975,USD,0.39,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,germanywestcentral,Frankfurt,DE,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,indiasouthcentral,Chennai,IN,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,indonesiacentral,Jakarta,ID,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,israelcentral,Tel Aviv,IL,0.09,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,israelnorthwest,Tel Aviv,IL,0.09,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,italynorth,Milan,IT,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,japaneast,Tokyo,JP,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,japanwest,Osaka,JP,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,jioindiacentral,Nagpur,IN,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,jioindiawest,Jamnagar,IN,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,koreacentral,Seoul,KR,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,koreasouth,Busan,KR,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,malaysiawest,Kuala Lumpur,MY,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,mexicocentral,Mexico City,MX,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,newzealandnorth,Auckland,NZ,0.1071,USD,0.4284,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,northcentralus,Chicago,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,northeurope,Dublin,IE,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,norwayeast,Oslo,NO,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,norwaywest,Stavanger,NO,0.1072,USD,0.429,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,perth,Perth,AU,0.1428,USD,0.571322,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,polandcentral,Warsaw,PL,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,qatarcentral,Doha,QA,0.09,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,saudiarabiaeast,saudiarabiaeast,,0.09,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,southafricanorth,Johannesburg,ZA,0.1005,USD,0.438,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,southafricawest,Cape Town,ZA,0.126,USD,0.504,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,southcentralus,San Antonio,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,southeastasia,Singapore,SG,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,southeastasia3,southeastasia3,,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,southindia,Chennai,IN,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,spaincentral,Madrid,ES,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,swedencentral,Stockholm,SE,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,swedensouth,Malmo,SE,0.0975,USD,0.39,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,switzerlandnorth,Zurich,CH,0.09,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,switzerlandwest,Geneva,CH,0.1072,USD,0.429,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,uaecentral,Abu Dhabi,AE,0.0975,USD,0.468,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,uaenorth,Dubai,AE,0.09,USD,0.36,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,uksouth,London,GB,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,ukwest,Cardiff,GB,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,usgovarizona,Phoenix,US,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,usgovtexas,San Antonio,US,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,usgovvirginia,N. Virginia,US,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,westcentralus,Cheyenne,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,westeurope,Amsterdam,NL,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,westindia,Mumbai,IN,0.0825,USD,0.33,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,westus,Silicon Valley,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,westus2,Seattle,US,0.075,USD,0.3,,
+Azure,StandardSSD,standard_ssd,SSD,size_tier,westus3,Phoenix,US,0.075,USD,0.3,,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,bd,Baoding,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,bj,Beijing,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,cd,Chengdu,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,fsh,Shanghai,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,fwh,Wuhan,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,gz,Guangzhou,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,hkg,Hong Kong,HK,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl0,balanced_ssd,SSD,per_gib,su,Suzhou,CN,0.0749,CNY,0.5,11000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,bd,Baoding,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,bj,Beijing,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,cd,Chengdu,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,fsh,Shanghai,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,fwh,Wuhan,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,gz,Guangzhou,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,hkg,Hong Kong,HK,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl1,perf_ssd,SSD,per_gib,su,Suzhou,CN,0.1498,CNY,1,50000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,bd,Baoding,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,bj,Beijing,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,cd,Chengdu,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,fsh,Shanghai,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,fwh,Wuhan,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,gz,Guangzhou,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,hkg,Hong Kong,HK,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl2,perf_ssd,SSD,per_gib,su,Suzhou,CN,0.2996,CNY,2,100000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,bd,Baoding,CN,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,bj,Beijing,CN,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,cd,Chengdu,CN,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,fsh,Shanghai,CN,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,fwh,Wuhan,CN,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,gz,Guangzhou,CN,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,hkg,Hong Kong,HK,0.5993,CNY,4,1000000,
+BaiduCloud,enhanced_ssd_pl3,ultra,SSD,per_gib,su,Suzhou,CN,0.5993,CNY,4,1000000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,bd,Baoding,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,bj,Beijing,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,cd,Chengdu,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,fsh,Shanghai,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,fwh,Wuhan,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,gz,Guangzhou,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,hkg,Hong Kong,HK,0.0524,CNY,0.35,5000,
+BaiduCloud,premium_ssd,standard_ssd,SSD,per_gib,su,Suzhou,CN,0.0524,CNY,0.35,5000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,bd,Baoding,CN,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,bj,Beijing,CN,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,cd,Chengdu,CN,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,fsh,Shanghai,CN,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,fwh,Wuhan,CN,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,gz,Guangzhou,CN,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,hkg,Hong Kong,HK,0.1348,CNY,0.9,25000,
+BaiduCloud,ssd,balanced_ssd,SSD,per_gib,su,Suzhou,CN,0.1348,CNY,0.9,25000,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,africa-south1,Johannesburg,ZA,0.088,USD,0.088,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-east1,Taipei,TW,0.093,USD,0.093,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-east2,Hong Kong,HK,0.112,USD,0.112,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-northeast1,Tokyo,JP,0.102,USD,0.102,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-northeast2,Osaka,JP,0.102,USD,0.102,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-northeast3,Seoul,KR,0.091,USD,0.091,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-south1,Mumbai,IN,0.083,USD,0.083,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-south2,Delhi,IN,0.096,USD,0.096,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-southeast1,Singapore,SG,0.098,USD,0.098,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-southeast2,Jakarta,ID,0.096,USD,0.096,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-southeast3,Kuala Lumpur,MY,0.084,USD,0.084,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,asia-southeast4,Jakarta,ID,0.084,USD,0.084,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,australia-southeast1,Sydney,AU,0.1,USD,0.1,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,australia-southeast2,Melbourne,AU,0.104,USD,0.104,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-central2,Warsaw,PL,0.096,USD,0.096,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-north1,Helsinki,FI,0.088,USD,0.088,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-north2,Stockholm,SE,0.08,USD,0.08,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-southwest1,Madrid,ES,0.094,USD,0.094,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west1,St. Ghislain,BE,0.088,USD,0.088,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west10,Berlin,DE,0.1232,USD,0.1232,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west12,Turin,IT,0.103,USD,0.103,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west2,London,GB,0.091,USD,0.091,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west3,Frankfurt,DE,0.094,USD,0.094,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west4,Eemshaven,NL,0.084,USD,0.084,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west6,Zurich,CH,0.112,USD,0.112,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west8,Milan,IT,0.093,USD,0.093,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,europe-west9,Paris,FR,0.093,USD,0.093,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,me-central1,Doha,QA,0.097,USD,0.097,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,me-central2,Dammam,SA,0.128,USD,0.128,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,me-west1,Tel Aviv,IL,0.088,USD,0.088,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,northamerica-northeast1,Montreal,CA,0.088,USD,0.088,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,northamerica-northeast2,Toronto,CA,0.088,USD,0.088,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,northamerica-south1,Mexico City,MX,0.0872,USD,0.0872,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,southamerica-east1,Sao Paulo,BR,0.127,USD,0.127,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,southamerica-west1,Santiago,CL,0.114,USD,0.114,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-central1,Iowa,US,0.08,USD,0.08,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-east1,South Carolina,US,0.09,USD,0.09,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-east4,N. Virginia,US,0.08,USD,0.08,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-east5,Columbus,US,0.08,USD,0.08,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-south1,Dallas,US,0.094,USD,0.094,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-west1,Oregon,US,0.08,USD,0.08,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-west2,Los Angeles,US,0.096,USD,0.096,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-west3,Salt Lake City,US,0.096,USD,0.096,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-west4,Las Vegas,US,0.09,USD,0.09,,
+GCP,hyperdisk-balanced,balanced_ssd,SSD,provisioned,us-west8,Los Angeles,US,0.08,USD,0.08,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,africa-south1,Johannesburg,ZA,0.138,USD,0.138,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-east1,Taipei,TW,0.145,USD,0.145,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-east2,Hong Kong,HK,0.175,USD,0.175,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-northeast1,Tokyo,JP,0.16,USD,0.16,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-northeast2,Osaka,JP,0.16,USD,0.16,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-northeast3,Seoul,KR,0.143,USD,0.143,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-south1,Mumbai,IN,0.13,USD,0.13,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-south2,Delhi,IN,0.15,USD,0.15,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-southeast1,Singapore,SG,0.154,USD,0.154,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-southeast2,Jakarta,ID,0.15,USD,0.15,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-southeast3,Kuala Lumpur,MY,0.1313,USD,0.13125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,asia-southeast4,Jakarta,ID,0.1313,USD,0.13125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,australia-southeast1,Sydney,AU,0.156,USD,0.156,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,australia-southeast2,Melbourne,AU,0.163,USD,0.163,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-central2,Warsaw,PL,0.15,USD,0.15,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-north1,Helsinki,FI,0.138,USD,0.138,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-north2,Stockholm,SE,0.125,USD,0.125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-southwest1,Madrid,ES,0.148,USD,0.148,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west1,St. Ghislain,BE,0.138,USD,0.138,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west10,Berlin,DE,0.1925,USD,0.1925,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west12,Turin,IT,0.161,USD,0.161,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west2,London,GB,0.143,USD,0.143,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west3,Frankfurt,DE,0.148,USD,0.148,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west4,Eemshaven,NL,0.131,USD,0.131,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west6,Zurich,CH,0.175,USD,0.175,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west8,Milan,IT,0.145,USD,0.145,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,europe-west9,Paris,FR,0.145,USD,0.145,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,me-central1,Doha,QA,0.152,USD,0.152,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,me-central2,Dammam,SA,0.2,USD,0.2,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,me-west1,Tel Aviv,IL,0.138,USD,0.138,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,northamerica-northeast1,Montreal,CA,0.138,USD,0.138,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,northamerica-northeast2,Toronto,CA,0.138,USD,0.138,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,northamerica-south1,Mexico City,MX,0.1363,USD,0.1363,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,southamerica-east1,Sao Paulo,BR,0.199,USD,0.199,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,southamerica-west1,Santiago,CL,0.179,USD,0.179,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-central1,Iowa,US,0.125,USD,0.125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-east1,South Carolina,US,0.141,USD,0.141,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-east4,N. Virginia,US,0.125,USD,0.125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-east5,Columbus,US,0.125,USD,0.125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-south1,Dallas,US,0.148,USD,0.148,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-west1,Oregon,US,0.125,USD,0.125,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-west2,Los Angeles,US,0.15,USD,0.15,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-west3,Salt Lake City,US,0.15,USD,0.15,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-west4,Las Vegas,US,0.141,USD,0.141,,
+GCP,hyperdisk-extreme,ultra,SSD,provisioned,us-west8,Los Angeles,US,0.125,USD,0.125,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,africa-south1,Johannesburg,ZA,0.088,USD,0.088,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-east1,Taipei,TW,0.093,USD,0.093,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-east2,Hong Kong,HK,0.112,USD,0.112,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-northeast1,Tokyo,JP,0.102,USD,0.102,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-northeast2,Osaka,JP,0.102,USD,0.102,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-northeast3,Seoul,KR,0.091,USD,0.091,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-south1,Mumbai,IN,0.083,USD,0.083,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-south2,Delhi,IN,0.096,USD,0.096,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-southeast1,Singapore,SG,0.098,USD,0.098,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-southeast2,Jakarta,ID,0.096,USD,0.096,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-southeast3,Kuala Lumpur,MY,0.084,USD,0.084,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,asia-southeast4,Jakarta,ID,0.084,USD,0.084,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,australia-southeast1,Sydney,AU,0.1,USD,0.1,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,australia-southeast2,Melbourne,AU,0.104,USD,0.104,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-central2,Warsaw,PL,0.096,USD,0.096,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-north1,Helsinki,FI,0.088,USD,0.088,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-north2,Stockholm,SE,0.08,USD,0.08,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-southwest1,Madrid,ES,0.094,USD,0.094,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west1,St. Ghislain,BE,0.088,USD,0.088,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west10,Berlin,DE,0.123,USD,0.123,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west12,Turin,IT,0.103,USD,0.103,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west2,London,GB,0.091,USD,0.091,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west3,Frankfurt,DE,0.094,USD,0.094,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west4,Eemshaven,NL,0.084,USD,0.084,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west5,Zurich,CH,0.103,USD,0.103,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west6,Zurich,CH,0.112,USD,0.112,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west8,Milan,IT,0.093,USD,0.093,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,europe-west9,Paris,FR,0.093,USD,0.093,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,me-central1,Doha,QA,0.097,USD,0.097,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,me-central2,Dammam,SA,0.128,USD,0.128,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,me-west1,Tel Aviv,IL,0.088,USD,0.088,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,northamerica-northeast1,Montreal,CA,0.088,USD,0.088,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,northamerica-northeast2,Toronto,CA,0.088,USD,0.088,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,northamerica-south1,Mexico City,MX,0.0872,USD,0.0872,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,southamerica-east1,Sao Paulo,BR,0.127,USD,0.127,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,southamerica-west1,Santiago,CL,0.114,USD,0.114,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-central1,Iowa,US,0.08,USD,0.08,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-east1,South Carolina,US,0.09,USD,0.09,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-east4,N. Virginia,US,0.08,USD,0.08,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-east5,Columbus,US,0.08,USD,0.08,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-east7,N. Virginia,US,0.08,USD,0.08,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-south1,Dallas,US,0.094,USD,0.094,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-west1,Oregon,US,0.08,USD,0.08,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-west2,Los Angeles,US,0.096,USD,0.096,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-west3,Salt Lake City,US,0.096,USD,0.096,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-west4,Las Vegas,US,0.09,USD,0.09,,
+GCP,hyperdisk-ml,perf_ssd,SSD,provisioned,us-west8,Los Angeles,US,0.08,USD,0.08,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-east1,Taipei,TW,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-east2,Hong Kong,HK,0.007,USD,0.007,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-northeast1,Tokyo,JP,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-northeast2,Osaka,JP,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-northeast3,Seoul,KR,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-south1,Mumbai,IN,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-south2,Delhi,IN,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-southeast1,Singapore,SG,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-southeast2,Jakarta,ID,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-southeast3,Kuala Lumpur,MY,0.0053,USD,0.00525,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,asia-southeast4,Jakarta,ID,0.0053,USD,0.00525,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,australia-southeast1,Sydney,AU,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,australia-southeast2,Melbourne,AU,0.007,USD,0.007,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-central2,Warsaw,PL,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-north1,Helsinki,FI,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-north2,Stockholm,SE,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-southwest1,Madrid,ES,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west1,St. Ghislain,BE,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west10,Berlin,DE,0.0077,USD,0.0077,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west12,Turin,IT,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west2,London,GB,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west3,Frankfurt,DE,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west4,Eemshaven,NL,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west6,Zurich,CH,0.007,USD,0.007,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west8,Milan,IT,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,europe-west9,Paris,FR,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,me-central1,Doha,QA,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,me-central2,Dammam,SA,0.008,USD,0.008,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,me-west1,Tel Aviv,IL,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,northamerica-northeast1,Montreal,CA,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,northamerica-northeast2,Toronto,CA,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,northamerica-south1,Mexico City,MX,0.0054,USD,0.0054,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,southamerica-east1,Sao Paulo,BR,0.008,USD,0.008,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,southamerica-west1,Santiago,CL,0.007,USD,0.007,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-central1,Iowa,US,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-east1,South Carolina,US,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-east4,N. Virginia,US,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-east5,Columbus,US,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-south1,Dallas,US,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-west1,Oregon,US,0.005,USD,0.005,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-west2,Los Angeles,US,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-west3,Salt Lake City,US,0.006,USD,0.006,,
+GCP,hyperdisk-throughput,standard_ssd,SSD,provisioned,us-west4,Las Vegas,US,0.006,USD,0.006,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,africa-south1,Johannesburg,ZA,0.1098,USD,0.109788,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-east1,Taipei,TW,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-east2,Hong Kong,HK,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-northeast1,Tokyo,JP,0.13,USD,0.13,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-northeast2,Osaka,JP,0.13,USD,0.13,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-northeast3,Seoul,KR,0.13,USD,0.13,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-south1,Mumbai,IN,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-south2,Delhi,IN,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-southeast1,Singapore,SG,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-southeast2,Jakarta,ID,0.13,USD,0.13,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-southeast3,Kuala Lumpur,MY,0.105,USD,0.105,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,asia-southeast4,Jakarta,ID,0.105,USD,0.105,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,australia-southeast1,Sydney,AU,0.135,USD,0.135,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,australia-southeast2,Melbourne,AU,0.135,USD,0.135,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-central2,Warsaw,PL,0.13,USD,0.13,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-north1,Helsinki,FI,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-north2,Stockholm,SE,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-southwest1,Madrid,ES,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west1,St. Ghislain,BE,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west10,Berlin,DE,0.154,USD,0.154,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west12,Turin,IT,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west2,London,GB,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west3,Frankfurt,DE,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west4,Eemshaven,NL,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west6,Zurich,CH,0.13,USD,0.13,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west8,Milan,IT,0.116,USD,0.116,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,europe-west9,Paris,FR,0.116,USD,0.116,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,me-central1,Doha,QA,0.1215,USD,0.1215,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,me-central2,Dammam,SA,0.16,USD,0.16,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,me-west1,Tel Aviv,IL,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,northamerica-northeast1,Montreal,CA,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,northamerica-northeast2,Toronto,CA,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,northamerica-south1,Mexico City,MX,0.109,USD,0.109,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,southamerica-east1,Sao Paulo,BR,0.15,USD,0.15,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,southamerica-west1,Santiago,CL,0.143,USD,0.143,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-central1,Iowa,US,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-east1,South Carolina,US,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-east4,N. Virginia,US,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-east5,Columbus,US,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-east7,N. Virginia,US,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-south1,Dallas,US,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-west1,Oregon,US,0.1,USD,0.1,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-west2,Los Angeles,US,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-west3,Salt Lake City,US,0.12,USD,0.12,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-west4,Las Vegas,US,0.11,USD,0.11,,
+GCP,pd-balanced,balanced_ssd,SSD,per_gib,us-west8,Los Angeles,US,0.1,USD,0.1,,
+GCP,pd-extreme,ultra,SSD,provisioned,africa-south1,Johannesburg,ZA,0.1372,USD,0.1372349,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-east1,Taipei,TW,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-east2,Hong Kong,HK,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-northeast1,Tokyo,JP,0.163,USD,0.163,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-northeast2,Osaka,JP,0.163,USD,0.163,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-northeast3,Seoul,KR,0.163,USD,0.163,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-south1,Mumbai,IN,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-south2,Delhi,IN,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-southeast1,Singapore,SG,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-southeast2,Jakarta,ID,0.163,USD,0.163,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-southeast3,Kuala Lumpur,MY,0.1313,USD,0.13125,,
+GCP,pd-extreme,ultra,SSD,provisioned,asia-southeast4,Jakarta,ID,0.1313,USD,0.13125,,
+GCP,pd-extreme,ultra,SSD,provisioned,australia-southeast1,Sydney,AU,0.169,USD,0.169,,
+GCP,pd-extreme,ultra,SSD,provisioned,australia-southeast2,Melbourne,AU,0.169,USD,0.169,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-central2,Warsaw,PL,0.163,USD,0.163,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-north1,Helsinki,FI,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-north2,Stockholm,SE,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-southwest1,Madrid,ES,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west1,St. Ghislain,BE,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west10,Berlin,DE,0.1925,USD,0.1925,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west12,Turin,IT,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west2,London,GB,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west3,Frankfurt,DE,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west4,Eemshaven,NL,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west6,Zurich,CH,0.163,USD,0.163,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west8,Milan,IT,0.145,USD,0.145,,
+GCP,pd-extreme,ultra,SSD,provisioned,europe-west9,Paris,FR,0.145,USD,0.145,,
+GCP,pd-extreme,ultra,SSD,provisioned,me-central1,Doha,QA,0.1537,USD,0.1537,,
+GCP,pd-extreme,ultra,SSD,provisioned,me-central2,Dammam,SA,0.2,USD,0.2,,
+GCP,pd-extreme,ultra,SSD,provisioned,me-west1,Tel Aviv,IL,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,northamerica-northeast1,Montreal,CA,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,northamerica-northeast2,Toronto,CA,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,northamerica-south1,Mexico City,MX,0.1362,USD,0.1362,,
+GCP,pd-extreme,ultra,SSD,provisioned,southamerica-east1,Sao Paulo,BR,0.188,USD,0.188,,
+GCP,pd-extreme,ultra,SSD,provisioned,southamerica-west1,Santiago,CL,0.179,USD,0.179,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-central1,Iowa,US,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-central2,Oklahoma City,US,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-east1,South Carolina,US,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-east4,N. Virginia,US,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-east5,Columbus,US,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-east7,N. Virginia,US,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-south1,Dallas,US,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-west1,Oregon,US,0.125,USD,0.125,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-west2,Los Angeles,US,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-west3,Salt Lake City,US,0.15,USD,0.15,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-west4,Las Vegas,US,0.138,USD,0.138,,
+GCP,pd-extreme,ultra,SSD,provisioned,us-west8,Los Angeles,US,0.125,USD,0.125,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,africa-south1,Johannesburg,ZA,0.1866,USD,0.1866395,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-east1,Taipei,TW,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-east2,Hong Kong,HK,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-northeast1,Tokyo,JP,0.221,USD,0.221,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-northeast2,Osaka,JP,0.221,USD,0.221,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-northeast3,Seoul,KR,0.221,USD,0.221,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-south1,Mumbai,IN,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-south2,Delhi,IN,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-southeast1,Singapore,SG,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-southeast2,Jakarta,ID,0.221,USD,0.221,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-southeast3,Kuala Lumpur,MY,0.1785,USD,0.1785,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,asia-southeast4,Jakarta,ID,0.1785,USD,0.1785,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,australia-southeast1,Sydney,AU,0.23,USD,0.23,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,australia-southeast2,Melbourne,AU,0.23,USD,0.23,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-central2,Warsaw,PL,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-north1,Helsinki,FI,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-north2,Stockholm,SE,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-southwest1,Madrid,ES,0.2006,USD,0.2006,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west1,St. Ghislain,BE,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west10,Berlin,DE,0.2618,USD,0.2618,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west12,Turin,IT,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west2,London,GB,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west3,Frankfurt,DE,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west4,Eemshaven,NL,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west6,Zurich,CH,0.221,USD,0.221,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west8,Milan,IT,0.1972,USD,0.1972,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,europe-west9,Paris,FR,0.1972,USD,0.1972,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,me-central1,Doha,QA,0.2066,USD,0.20655,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,me-central2,Dammam,SA,0.272,USD,0.272,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,me-west1,Tel Aviv,IL,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,northamerica-northeast1,Montreal,CA,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,northamerica-northeast2,Toronto,CA,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,northamerica-south1,Mexico City,MX,0.1853,USD,0.1853,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,southamerica-east1,Sao Paulo,BR,0.255,USD,0.255,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,southamerica-west1,Santiago,CL,0.2431,USD,0.2431,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-central1,Iowa,US,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-east1,South Carolina,US,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-east4,N. Virginia,US,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-east5,Columbus,US,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-south1,Dallas,US,0.2006,USD,0.2006,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-west1,Oregon,US,0.17,USD,0.17,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-west2,Los Angeles,US,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-west3,Salt Lake City,US,0.204,USD,0.204,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-west4,Las Vegas,US,0.187,USD,0.187,,
+GCP,pd-ssd,perf_ssd,SSD,per_gib,us-west8,Los Angeles,US,0.17,USD,0.17,,
+GCP,pd-standard,hdd,HDD,per_gib,africa-south1,Johannesburg,ZA,0.0523,USD,0.05232,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-east1,Taipei,TW,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-east2,Hong Kong,HK,0.0498,USD,0.0498,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-northeast1,Tokyo,JP,0.052,USD,0.052,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-northeast2,Osaka,JP,0.052,USD,0.052,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-northeast3,Seoul,KR,0.052,USD,0.052,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-south1,Mumbai,IN,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-south2,Delhi,IN,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-southeast1,Singapore,SG,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-southeast2,Jakarta,ID,0.052,USD,0.052,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-southeast3,Kuala Lumpur,MY,0.042,USD,0.042,,
+GCP,pd-standard,hdd,HDD,per_gib,asia-southeast4,Jakarta,ID,0.042,USD,0.042,,
+GCP,pd-standard,hdd,HDD,per_gib,australia-southeast1,Sydney,AU,0.054,USD,0.054,,
+GCP,pd-standard,hdd,HDD,per_gib,australia-southeast2,Melbourne,AU,0.054,USD,0.054,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-central2,Warsaw,PL,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-north1,Helsinki,FI,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-north2,Stockholm,SE,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-southwest1,Madrid,ES,0.0472,USD,0.0472,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west1,St. Ghislain,BE,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west10,Berlin,DE,0.0616,USD,0.0616,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west12,Turin,IT,0.0516,USD,0.0516,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west2,London,GB,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west3,Frankfurt,DE,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west4,Eemshaven,NL,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west6,Zurich,CH,0.052,USD,0.052,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west8,Milan,IT,0.0464,USD,0.0464,,
+GCP,pd-standard,hdd,HDD,per_gib,europe-west9,Paris,FR,0.0464,USD,0.0464,,
+GCP,pd-standard,hdd,HDD,per_gib,me-central1,Doha,QA,0.0486,USD,0.0486,,
+GCP,pd-standard,hdd,HDD,per_gib,me-central2,Dammam,SA,0.064,USD,0.064,,
+GCP,pd-standard,hdd,HDD,per_gib,me-west1,Tel Aviv,IL,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,northamerica-northeast1,Montreal,CA,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,northamerica-northeast2,Toronto,CA,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,northamerica-south1,Mexico City,MX,0.0436,USD,0.0436,,
+GCP,pd-standard,hdd,HDD,per_gib,southamerica-east1,Sao Paulo,BR,0.06,USD,0.06,,
+GCP,pd-standard,hdd,HDD,per_gib,southamerica-west1,Santiago,CL,0.0572,USD,0.0572,,
+GCP,pd-standard,hdd,HDD,per_gib,us-central1,Iowa,US,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,us-east1,South Carolina,US,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,us-east4,N. Virginia,US,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,us-east5,Columbus,US,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,us-south1,Dallas,US,0.0472,USD,0.0472,,
+GCP,pd-standard,hdd,HDD,per_gib,us-west1,Oregon,US,0.04,USD,0.04,,
+GCP,pd-standard,hdd,HDD,per_gib,us-west2,Los Angeles,US,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,us-west3,Salt Lake City,US,0.048,USD,0.048,,
+GCP,pd-standard,hdd,HDD,per_gib,us-west4,Las Vegas,US,0.044,USD,0.044,,
+GCP,pd-standard,hdd,HDD,per_gib,us-west8,Los Angeles,US,0.04,USD,0.04,,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,af-north-1,Cairo,EG,0.5333,CNY,3.56,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,af-south-1,Johannesburg,ZA,0.5094,CNY,3.4,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.4794,CNY,3.2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.4944,CNY,3.3,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,ap-southeast-3,Singapore,SG,0.4794,CNY,3.2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.4794,CNY,3.2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,ap-southeast-5,Manila,PH,0.4794,CNY,3.2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-east-2,Shanghai,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-east-201,Shanghai,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-east-3,Shanghai,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-east-4,Shanghai,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-east-5,Qingdao,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-east-6,cn-east-6,,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-north-11,Beijing,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-north-12,Ulanqab,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-north-219,Ulanqab,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-north-4,Beijing,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-north-9,Ulanqab,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-northeast-1,Shenyang,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-south-1,Guangzhou,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,cn-southwest-3,Guiyang,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,global-cbc-1,Beijing,CN,0.2996,CNY,2,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,la-north-2,Mexico City,MX,0.3895,CNY,2.6,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,la-south-2,Santiago,CL,0.3895,CNY,2.6,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,me-east-1,Dubai,AE,0.5976,CNY,3.989,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.6577,CNY,4.39,1000000,
+HuaweiCloud,ESSD,ultra,SSD,per_gib,tr-west-1,Istanbul,TR,0.5333,CNY,3.56,1000000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,af-north-1,Cairo,EG,0.1223,CNY,0.8162,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,af-south-1,Johannesburg,ZA,0.1791,CNY,1.19574,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.1348,CNY,0.9,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.1199,CNY,0.8,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-3,Singapore,SG,0.1228,CNY,0.82,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.1267,CNY,0.846,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-5,Manila,PH,0.1228,CNY,0.82,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-east-2,Shanghai,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-east-201,Shanghai,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-east-3,Shanghai,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-east-4,Shanghai,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-east-5,Qingdao,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-east-6,cn-east-6,,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-north-11,Beijing,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-north-12,Ulanqab,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-north-219,Ulanqab,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-north-4,Beijing,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-north-9,Ulanqab,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-northeast-1,Shenyang,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-south-1,Guangzhou,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.0899,CNY,0.6,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,cn-southwest-3,Guiyang,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,global-cbc-1,Beijing,CN,0.1049,CNY,0.7,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,la-north-2,Mexico City,MX,0.1094,CNY,0.73,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,la-south-2,Santiago,CL,0.1094,CNY,0.73,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.1333,CNY,0.89,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,na-mexico-1,Mexico City,MX,0.1094,CNY,0.73,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.1993,CNY,1.33,20000,
+HuaweiCloud,GPSSD,balanced_ssd,SSD,per_gib,tr-west-1,Istanbul,TR,0.1157,CNY,0.772,20000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,af-north-1,Cairo,EG,0.0932,CNY,0.622,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,af-south-1,Johannesburg,ZA,0.1101,CNY,0.735,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-1,Hong Kong,HK,0.1112,CNY,0.742,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-2,Bangkok,TH,0.0956,CNY,0.638,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-3,Singapore,SG,0.1011,CNY,0.675,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-4,Jakarta,ID,0.1011,CNY,0.675,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-5,Manila,PH,0.1011,CNY,0.675,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-east-2,Shanghai,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-east-201,Shanghai,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-east-3,Shanghai,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-east-4,Shanghai,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-east-5,Qingdao,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-east-6,cn-east-6,,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-north-11,Beijing,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-north-12,Ulanqab,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-north-219,Ulanqab,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-north-4,Beijing,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-north-9,Ulanqab,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-northeast-1,Shenyang,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-south-1,Guangzhou,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-south-4,Guangzhou,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-southwest-2,Guiyang,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,cn-southwest-3,Guiyang,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,global-cbc-1,Beijing,CN,0.0749,CNY,0.5,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,la-north-2,Mexico City,MX,0.0845,CNY,0.5639,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,la-south-2,Santiago,CL,0.0845,CNY,0.5639,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,me-east-1,Dubai,AE,0.1076,CNY,0.718,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,sa-brazil-1,Sao Paulo,BR,0.16,CNY,1.068,128000,
+HuaweiCloud,GPSSD2,perf_ssd,SSD,provisioned,tr-west-1,Istanbul,TR,0.0932,CNY,0.622,128000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,af-south-1,Johannesburg,ZA,0.0628,CNY,0.419,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.0626,CNY,0.418,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.0536,CNY,0.35769999999999996,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,ap-southeast-3,Singapore,SG,0.0566,CNY,0.378,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.0566,CNY,0.378,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-east-2,Shanghai,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-east-201,Shanghai,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-east-3,Shanghai,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-east-5,Qingdao,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-east-6,cn-east-6,,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-north-11,Beijing,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-north-219,Ulanqab,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-north-4,Beijing,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-north-9,Ulanqab,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-northeast-1,Shenyang,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-south-1,Guangzhou,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-south-4,Guangzhou,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.0419,CNY,0.28,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,cn-southwest-3,Guiyang,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,global-cbc-1,Beijing,CN,0.0524,CNY,0.35,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,la-north-2,Mexico City,MX,0.0566,CNY,0.378,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,la-south-2,Santiago,CL,0.0566,CNY,0.378,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.0599,CNY,0.4,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,na-mexico-1,Mexico City,MX,0.0566,CNY,0.378,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.0908,CNY,0.606,5000,
+HuaweiCloud,SAS,standard_ssd,SSD,per_gib,tr-west-1,Istanbul,TR,0.0527,CNY,0.352,5000,
+HuaweiCloud,SATA,hdd,HDD,per_gib,af-south-1,Johannesburg,ZA,0.07,CNY,0.46720000000000006,1000,
+HuaweiCloud,SATA,hdd,HDD,per_gib,cn-east-2,Shanghai,CN,0.0449,CNY,0.3,1000,
+HuaweiCloud,SATA,hdd,HDD,per_gib,cn-southwest-2,Guiyang,CN,0.036,CNY,0.24,1000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,af-north-1,Cairo,EG,0.2446,CNY,1.6324,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,af-south-1,Johannesburg,ZA,0.3214,CNY,2.145,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.2187,CNY,1.46,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.2172,CNY,1.45,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,ap-southeast-3,Singapore,SG,0.2187,CNY,1.46,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.2382,CNY,1.59,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,ap-southeast-5,Manila,PH,0.2187,CNY,1.46,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-east-2,Shanghai,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-east-201,Shanghai,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-east-3,Shanghai,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-east-4,Shanghai,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-east-5,Qingdao,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-east-6,cn-east-6,,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-north-11,Beijing,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-north-12,Ulanqab,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-north-219,Ulanqab,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-north-4,Beijing,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-north-9,Ulanqab,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-northeast-1,Shenyang,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-south-1,Guangzhou,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-south-4,Guangzhou,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,cn-southwest-3,Guiyang,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,global-cbc-1,Beijing,CN,0.1498,CNY,1,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,la-north-2,Mexico City,MX,0.1963,CNY,1.31,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,la-south-2,Santiago,CL,0.1963,CNY,1.31,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.2891,CNY,1.93,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,na-mexico-1,Mexico City,MX,0.1963,CNY,1.31,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.3315,CNY,2.213,33000,
+HuaweiCloud,SSD,perf_ssd,SSD,per_gib,tr-west-1,Istanbul,TR,0.2445,CNY,1.632,33000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,af-north-1,Cairo,EG,0.48,USD,0.48,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,af-south-1,Johannesburg,ZA,0.462,USD,0.462,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,ap-southeast-3,Singapore,SG,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,ap-southeast-5,Manila,PH,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-east-2,Shanghai,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-east-3,Shanghai,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-east-4,Shanghai,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-east-5,Qingdao,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-north-1,Beijing,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-north-12,Ulanqab,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-north-4,Beijing,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-north-9,Ulanqab,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-south-1,Guangzhou,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.308,USD,0.308,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,global-cbc-1,Beijing,CN,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,la-north-2,Mexico City,MX,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,la-south-2,Santiago,CL,0.448,USD,0.448,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,me-east-1,Dubai,AE,0.5376,USD,0.5376,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,sa-argentina-1,Buenos Aires,AR,0.438,USD,0.43799999999999994,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.592,USD,0.592,1000000,
+HuaweiCloudIntl,ESSD,ultra,SSD,per_gib,tr-west-1,Istanbul,TR,0.48,USD,0.48,1000000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,af-north-1,Cairo,EG,0.11,USD,0.11,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,af-south-1,Johannesburg,ZA,0.161,USD,0.161,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.125,USD,0.125,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.109,USD,0.109,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-3,Singapore,SG,0.114,USD,0.114,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.114,USD,0.114,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,ap-southeast-5,Manila,PH,0.114,USD,0.114,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-east-2,Shanghai,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-east-3,Shanghai,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-east-4,Shanghai,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-east-5,Qingdao,CN,0.11,USD,0.11,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-north-1,Beijing,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-north-12,Ulanqab,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-north-4,Beijing,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-north-9,Ulanqab,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-south-1,Guangzhou,CN,0.108,USD,0.108,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.092,USD,0.092,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,global-cbc-1,Beijing,CN,0.125,USD,0.125,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,la-north-2,Mexico City,MX,0.094,USD,0.094,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,la-south-2,Santiago,CL,0.094,USD,0.094,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.1197,USD,0.11972000000000001,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,na-mexico-1,Mexico City,MX,0.094,USD,0.094,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,sa-argentina-1,Buenos Aires,AR,0.1186,USD,0.118625,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.18,USD,0.18,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,sa-peru-1,Lima,PE,0.0949,USD,0.0949,20000,
+HuaweiCloudIntl,GPSSD,balanced_ssd,SSD,per_gib,tr-west-1,Istanbul,TR,0.104,USD,0.104,20000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,af-north-1,Cairo,EG,0.083,USD,0.083,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,af-south-1,Johannesburg,ZA,0.099,USD,0.099,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-1,Hong Kong,HK,0.1,USD,0.1,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-2,Bangkok,TH,0.086,USD,0.086,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-3,Singapore,SG,0.091,USD,0.091,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-4,Jakarta,ID,0.091,USD,0.091,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,ap-southeast-5,Manila,PH,0.091,USD,0.091,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-east-2,Shanghai,CN,0.0786,USD,0.0786,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-east-3,Shanghai,CN,0.0786,USD,0.0786,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-east-4,Shanghai,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-east-5,Qingdao,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-north-1,Beijing,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-north-12,Ulanqab,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-north-4,Beijing,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-north-9,Ulanqab,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-south-1,Guangzhou,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,cn-southwest-2,Guiyang,CN,0.078,USD,0.078,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,global-cbc-1,Beijing,CN,0.1,USD,0.1,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,la-north-2,Mexico City,MX,0.076,USD,0.076,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,la-south-2,Santiago,CL,0.076,USD,0.076,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,me-east-1,Dubai,AE,0.0968,USD,0.0968,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,sa-brazil-1,Sao Paulo,BR,0.144,USD,0.144,128000,
+HuaweiCloudIntl,GPSSD2,perf_ssd,SSD,provisioned,tr-west-1,Istanbul,TR,0.0836,USD,0.0836,128000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,af-south-1,Johannesburg,ZA,0.0565,USD,0.0565,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.0564,USD,0.0564,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.0482,USD,0.04818,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,ap-southeast-3,Singapore,SG,0.051,USD,0.051,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.051,USD,0.051,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-east-2,Shanghai,CN,0.054,USD,0.054,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-east-3,Shanghai,CN,0.054,USD,0.054,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-east-5,Qingdao,CN,0.055,USD,0.055,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-north-1,Beijing,CN,0.054,USD,0.054,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-north-4,Beijing,CN,0.054,USD,0.054,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-north-9,Ulanqab,CN,0.054,USD,0.054,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-south-1,Guangzhou,CN,0.054,USD,0.054,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.0432,USD,0.0432,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,global-cbc-1,Beijing,CN,0.0564,USD,0.0564,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,la-north-2,Mexico City,MX,0.051,USD,0.051,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,la-south-2,Santiago,CL,0.051,USD,0.051,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.055,USD,0.055,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,na-mexico-1,Mexico City,MX,0.051,USD,0.051,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,sa-argentina-1,Buenos Aires,AR,0.0913,USD,0.09125,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.0817,USD,0.0817,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,sa-peru-1,Lima,PE,0.073,USD,0.07300000000000001,5000,
+HuaweiCloudIntl,SAS,standard_ssd,SSD,per_gib,tr-west-1,Istanbul,TR,0.0475,USD,0.0475,5000,
+HuaweiCloudIntl,SATA,hdd,HDD,per_gib,af-south-1,Johannesburg,ZA,0.0657,USD,0.06570000000000001,1000,
+HuaweiCloudIntl,SATA,hdd,HDD,per_gib,cn-southwest-2,Guiyang,CN,0.0368,USD,0.0368,1000,
+HuaweiCloudIntl,SATA,hdd,HDD,per_gib,la-south-2,Santiago,CL,0.0405,USD,0.0405,1000,
+HuaweiCloudIntl,SATA,hdd,HDD,per_gib,sa-brazil-1,Sao Paulo,BR,0.0774,USD,0.0774,1000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,af-north-1,Cairo,EG,0.22,USD,0.22,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,af-south-1,Johannesburg,ZA,0.3003,USD,0.3003,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,ap-southeast-1,Hong Kong,HK,0.214,USD,0.214,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,ap-southeast-2,Bangkok,TH,0.197,USD,0.197,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,ap-southeast-3,Singapore,SG,0.204,USD,0.204,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,ap-southeast-4,Jakarta,ID,0.214,USD,0.214,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,ap-southeast-5,Manila,PH,0.204,USD,0.204,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-east-2,Shanghai,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-east-3,Shanghai,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-east-4,Shanghai,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-east-5,Qingdao,CN,0.157,USD,0.157,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-north-1,Beijing,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-north-12,Ulanqab,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-north-4,Beijing,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-north-9,Ulanqab,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-south-1,Guangzhou,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,cn-southwest-2,Guiyang,CN,0.154,USD,0.154,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,global-cbc-1,Beijing,CN,0.214,USD,0.214,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,la-north-2,Mexico City,MX,0.171,USD,0.171,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,la-south-2,Santiago,CL,0.171,USD,0.171,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,me-east-1,Dubai,AE,0.26,USD,0.26,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,na-mexico-1,Mexico City,MX,0.171,USD,0.171,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,sa-argentina-1,Buenos Aires,AR,0.219,USD,0.21899999999999997,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,sa-brazil-1,Sao Paulo,BR,0.2961,USD,0.2961,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,sa-peru-1,Lima,PE,0.1752,USD,0.1752,33000,
+HuaweiCloudIntl,SSD,perf_ssd,SSD,per_gib,tr-west-1,Istanbul,TR,0.2197,USD,0.21973,33000,
+Linode,block_storage,balanced_ssd,SSD,per_gib,ap-northeast,Tokyo,JP,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,ap-south,Singapore,SG,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,ap-southeast,Sydney,AU,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,ap-west,Mumbai,IN,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,au-mel,Melbourne,AU,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,br-gru,Sao Paulo,BR,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,ca-central,Toronto,CA,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,de-fra-2,Frankfurt,DE,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,es-mad,Madrid,ES,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,eu-central,Frankfurt,DE,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,eu-west,London,GB,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,fr-par,Paris,FR,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,fr-par-2,Paris,FR,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,gb-lon,London,GB,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,id-cgk,Jakarta,ID,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,in-bom-2,Mumbai,IN,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,in-maa,Chennai,IN,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,it-mil,Milan,IT,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,jp-osa,Osaka,JP,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,jp-tyo-3,Tokyo,JP,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,nl-ams,Amsterdam,NL,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,se-sto,Stockholm,SE,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,sg-sin-2,Singapore,SG,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-central,Dallas,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-east,New York,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-iad,N. Virginia,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-iad-2,N. Virginia,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-lax,Los Angeles,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-mia,Miami,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-ord,Chicago,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-sea,Seattle,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-southeast,Atlanta,US,0.1,USD,0.1,,
+Linode,block_storage,balanced_ssd,SSD,per_gib,us-west,Oregon,US,0.1,USD,0.1,,
+OCI,balanced,balanced_ssd,SSD,per_gib,af-johannesburg-1,Johannesburg,ZA,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ap-mumbai-1,Mumbai,IN,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ap-osaka-1,Osaka,JP,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ap-seoul-1,Seoul,KR,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ap-singapore-1,Singapore,SG,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ap-sydney-1,Sydney,AU,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ap-tokyo-1,Tokyo,JP,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,ca-toronto-1,Toronto,CA,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,eu-amsterdam-1,Amsterdam,NL,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,eu-frankfurt-1,Frankfurt,DE,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,eu-madrid-1,Madrid,ES,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,eu-milan-1,Milan,IT,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,eu-paris-1,Paris,FR,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,eu-zurich-1,Zurich,CH,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,me-dubai-1,Dubai,AE,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,sa-saopaulo-1,Sao Paulo,BR,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,uk-london-1,London,GB,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,us-ashburn-1,N. Virginia,US,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,us-chicago-1,Chicago,US,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,us-phoenix-1,Phoenix,US,0.0425,USD,0.042499999999999996,,
+OCI,balanced,balanced_ssd,SSD,per_gib,us-sanjose-1,Silicon Valley,US,0.0425,USD,0.042499999999999996,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,af-johannesburg-1,Johannesburg,ZA,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ap-mumbai-1,Mumbai,IN,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ap-osaka-1,Osaka,JP,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ap-seoul-1,Seoul,KR,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ap-singapore-1,Singapore,SG,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ap-sydney-1,Sydney,AU,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ap-tokyo-1,Tokyo,JP,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,ca-toronto-1,Toronto,CA,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,eu-amsterdam-1,Amsterdam,NL,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,eu-frankfurt-1,Frankfurt,DE,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,eu-madrid-1,Madrid,ES,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,eu-milan-1,Milan,IT,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,eu-paris-1,Paris,FR,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,eu-zurich-1,Zurich,CH,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,me-dubai-1,Dubai,AE,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,sa-saopaulo-1,Sao Paulo,BR,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,uk-london-1,London,GB,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,us-ashburn-1,N. Virginia,US,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,us-chicago-1,Chicago,US,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,us-phoenix-1,Phoenix,US,0.0595,USD,0.0595,,
+OCI,higher_perf,perf_ssd,SSD,per_gib,us-sanjose-1,Silicon Valley,US,0.0595,USD,0.0595,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,af-johannesburg-1,Johannesburg,ZA,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ap-mumbai-1,Mumbai,IN,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ap-osaka-1,Osaka,JP,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ap-seoul-1,Seoul,KR,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ap-singapore-1,Singapore,SG,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ap-sydney-1,Sydney,AU,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ap-tokyo-1,Tokyo,JP,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,ca-toronto-1,Toronto,CA,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,eu-amsterdam-1,Amsterdam,NL,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,eu-frankfurt-1,Frankfurt,DE,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,eu-madrid-1,Madrid,ES,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,eu-milan-1,Milan,IT,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,eu-paris-1,Paris,FR,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,eu-zurich-1,Zurich,CH,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,me-dubai-1,Dubai,AE,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,sa-saopaulo-1,Sao Paulo,BR,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,uk-london-1,London,GB,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,us-ashburn-1,N. Virginia,US,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,us-chicago-1,Chicago,US,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,us-phoenix-1,Phoenix,US,0.0255,USD,0.0255,,
+OCI,lower_cost,standard_ssd,SSD,per_gib,us-sanjose-1,Silicon Valley,US,0.0255,USD,0.0255,,
+OCI,ultra_high,ultra,SSD,per_gib,af-johannesburg-1,Johannesburg,ZA,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ap-mumbai-1,Mumbai,IN,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ap-osaka-1,Osaka,JP,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ap-seoul-1,Seoul,KR,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ap-singapore-1,Singapore,SG,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ap-sydney-1,Sydney,AU,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ap-tokyo-1,Tokyo,JP,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,ca-toronto-1,Toronto,CA,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,eu-amsterdam-1,Amsterdam,NL,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,eu-frankfurt-1,Frankfurt,DE,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,eu-madrid-1,Madrid,ES,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,eu-milan-1,Milan,IT,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,eu-paris-1,Paris,FR,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,eu-zurich-1,Zurich,CH,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,me-dubai-1,Dubai,AE,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,sa-saopaulo-1,Sao Paulo,BR,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,uk-london-1,London,GB,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,us-ashburn-1,N. Virginia,US,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,us-chicago-1,Chicago,US,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,us-phoenix-1,Phoenix,US,0.2295,USD,0.22949999999999998,,
+OCI,ultra_high,ultra,SSD,per_gib,us-sanjose-1,Silicon Valley,US,0.2295,USD,0.22949999999999998,,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.1094,CNY,0.73,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-johorbahru,Johor Bahru,MY,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.1094,CNY,0.73,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.1094,CNY,0.73,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.1094,CNY,0.73,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.1348,CNY,0.9,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,na-queretaro,na-queretaro,,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.1094,CNY,0.73,6000,
+TencentCloud,CLOUD_BSSD,balanced_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.0749,CNY,0.5,6000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.2247,CNY,1.5,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-johorbahru,Johor Bahru,MY,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.2247,CNY,1.5,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.2247,CNY,1.5,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.2247,CNY,1.5,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.2697,CNY,1.8,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,na-queretaro,na-queretaro,,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.2247,CNY,1.5,50000,
+TencentCloud,CLOUD_HSSD,perf_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.1498,CNY,1,50000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.0629,CNY,0.42,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.0524,CNY,0.35,6000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.1873,CNY,1.25,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.1648,CNY,1.1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.1873,CNY,1.25,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-johorbahru,Johor Bahru,MY,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.1948,CNY,1.3,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.2247,CNY,1.5,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.1873,CNY,1.25,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.2472,CNY,1.65,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.1873,CNY,1.25,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,na-queretaro,na-queretaro,,0.1498,CNY,1,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.1723,CNY,1.15,26000,
+TencentCloud,CLOUD_SSD,balanced_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.1873,CNY,1.25,26000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-johorbahru,Johor Bahru,MY,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.219,USD,0.21899999999999997,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,na-queretaro,na-queretaro,,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_BSSD,balanced_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.146,USD,0.14600000000000002,6000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-johorbahru,Johor Bahru,MY,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.438,USD,0.43799999999999994,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,na-queretaro,na-queretaro,,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_HSSD,perf_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.219,USD,0.21899999999999997,50000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_PREMIUM,standard_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.073,USD,0.07300000000000001,6000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-bangkok,Bangkok,TH,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-beijing,Beijing,CN,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-chengdu,Chengdu,CN,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-chongqing,Chongqing,CN,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-guangzhou,Guangzhou,CN,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-hongkong,Hong Kong,HK,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-jakarta,Jakarta,ID,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-johorbahru,Johor Bahru,MY,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-nanjing,Nanjing,CN,0.146,USD,0.14600000000000002,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-osaka,Osaka,JP,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-seoul,Seoul,KR,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-shanghai,Shanghai,CN,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,ap-tokyo,Tokyo,JP,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,eu-frankfurt,Frankfurt,DE,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,me-saudi-arabia,Riyadh,SA,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,na-ashburn,N. Virginia,US,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,na-queretaro,na-queretaro,,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,na-siliconvalley,Silicon Valley,US,0.219,USD,0.21899999999999997,26000,
+TencentCloudIntl,CLOUD_SSD,balanced_ssd,SSD,per_gib,sa-saopaulo,Sao Paulo,BR,0.219,USD,0.21899999999999997,26000,
+UCloud,DataDisk,hdd,HDD,per_gib,afr-nigeria,Lagos,NG,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,bra-saopaulo,Sao Paulo,BR,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,cn-bj2,Beijing,CN,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,cn-gd,Guangzhou,CN,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,cn-guiyang1,Guiyang,CN,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,cn-sh2,Shanghai,CN,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,cn-wlcb,Ulanqab,CN,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,ge-fra,Frankfurt,DE,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,idn-jakarta,Jakarta,ID,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,ind-mumbai,Mumbai,IN,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,jpn-tky,Tokyo,JP,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,kr-seoul,Seoul,KR,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,kz-ala,Almaty,KZ,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,mx-mex,Mexico City,MX,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,ph-mnl,Manila,PH,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,pk-khi,Karachi,PK,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,sg,Singapore,SG,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,th-bkk,Bangkok,TH,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,tw-tp,Taipei,TW,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,uae-dubai,Dubai,AE,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,uk-london,London,GB,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,us-ca,Silicon Valley,US,0.0689,CNY,0.46,,
+UCloud,DataDisk,hdd,HDD,per_gib,us-den,Denver,US,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,us-ws,N. Virginia,US,0.0599,CNY,0.4,,
+UCloud,DataDisk,hdd,HDD,per_gib,uz-tas,Tashkent,UZ,0.0449,CNY,0.3,,
+UCloud,DataDisk,hdd,HDD,per_gib,vn-sng,Ho Chi Minh City,VN,0.0599,CNY,0.4,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,afr-nigeria,Lagos,NG,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,bra-saopaulo,Sao Paulo,BR,0.2996,CNY,2,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,cn-bj2,Beijing,CN,0.0899,CNY,0.6,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,cn-gd,Guangzhou,CN,0.0899,CNY,0.6,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,cn-guiyang1,Guiyang,CN,0.0824,CNY,0.55,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,cn-sh2,Shanghai,CN,0.0899,CNY,0.6,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,cn-wlcb,Ulanqab,CN,0.0824,CNY,0.55,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,ge-fra,Frankfurt,DE,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,idn-jakarta,Jakarta,ID,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,ind-mumbai,Mumbai,IN,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,jpn-tky,Tokyo,JP,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,kr-seoul,Seoul,KR,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,kz-ala,Almaty,KZ,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,mx-mex,Mexico City,MX,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,ph-mnl,Manila,PH,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,pk-khi,Karachi,PK,0.5618,CNY,3.75,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,sg,Singapore,SG,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,th-bkk,Bangkok,TH,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,tw-tp,Taipei,TW,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,uae-dubai,Dubai,AE,0.2996,CNY,2,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,uk-london,London,GB,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,us-ca,Silicon Valley,US,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,us-den,Denver,US,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,us-ws,N. Virginia,US,0.1498,CNY,1,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,uz-tas,Tashkent,UZ,0.2247,CNY,1.5,,
+UCloud,RSSDDataDisk,perf_ssd,SSD,per_gib,vn-sng,Ho Chi Minh City,VN,0.1498,CNY,1,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,afr-nigeria,Lagos,NG,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,bra-saopaulo,Sao Paulo,BR,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,cn-bj2,Beijing,CN,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,cn-gd,Guangzhou,CN,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,cn-guiyang1,Guiyang,CN,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,cn-sh2,Shanghai,CN,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,cn-wlcb,Ulanqab,CN,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,ge-fra,Frankfurt,DE,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,idn-jakarta,Jakarta,ID,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,ind-mumbai,Mumbai,IN,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,jpn-tky,Tokyo,JP,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,kr-seoul,Seoul,KR,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,kz-ala,Almaty,KZ,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,mx-mex,Mexico City,MX,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,ph-mnl,Manila,PH,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,pk-khi,Karachi,PK,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,sg,Singapore,SG,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,th-bkk,Bangkok,TH,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,tw-tp,Taipei,TW,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,uae-dubai,Dubai,AE,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,uk-london,London,GB,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,us-ca,Silicon Valley,US,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,us-den,Denver,US,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,us-ws,N. Virginia,US,0.1948,CNY,1.3,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,uz-tas,Tashkent,UZ,0.0899,CNY,0.6,,
+UCloud,SSDDataDisk,balanced_ssd,SSD,per_gib,vn-sng,Ho Chi Minh City,VN,0.1948,CNY,1.3,,
+Volcengine,ESSD_PL0,balanced_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.0809,CNY,0.54,10000,
+Volcengine,ESSD_PL0,balanced_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.0749,CNY,0.5,10000,
+Volcengine,ESSD_PL0,balanced_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.0749,CNY,0.5,10000,
+Volcengine,ESSD_PL0,balanced_ssd,SSD,per_gib,cn-hongkong,Hong Kong,HK,0.0854,CNY,0.57,10000,
+Volcengine,ESSD_PL0,balanced_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.0749,CNY,0.5,10000,
+Volcengine,TSSD_TL0,perf_ssd,SSD,per_gib,ap-southeast-1,Singapore,SG,0.1573,CNY,1.05,50000,
+Volcengine,TSSD_TL0,perf_ssd,SSD,per_gib,cn-beijing,Beijing,CN,0.1049,CNY,0.7,50000,
+Volcengine,TSSD_TL0,perf_ssd,SSD,per_gib,cn-guangzhou,Guangzhou,CN,0.1049,CNY,0.7,50000,
+Volcengine,TSSD_TL0,perf_ssd,SSD,per_gib,cn-shanghai,Shanghai,CN,0.1049,CNY,0.7,50000,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,ams,Amsterdam,NL,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,atl,Atlanta,US,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,blr,Bangalore,IN,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,ewr,New York,US,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,lax,Los Angeles,US,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,lhr,London,GB,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,mxp,Milan,IT,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,nrt,Tokyo,JP,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,ord,Chicago,US,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,sea,Seattle,US,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,sgp,Singapore,SG,0.1,USD,0.1,,
+Vultr,high_perf,balanced_ssd,SSD,per_gib,syd,Sydney,AU,0.1,USD,0.1,,

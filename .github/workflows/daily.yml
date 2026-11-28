@@ -1,0 +1,67 @@
+# Daily: pull mof-hub's export from R2, rebuild data/, publish it as the repo's only commit and only release.
+# Latest snapshot only, no history: price history is a Mofis feature, so main is one parentless commit
+# (force-pushed) and only today's release is kept (older ones and their tags are deleted, since a tag
+# would keep an old commit reachable). Site download links use releases/latest/download/<file>.
+# Repo secrets: R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY
+# (an R2 API token with Object Read only, scoped to the bucket mofcloud-tools-data).
+name: Daily data
+
+on:
+  schedule:
+    - cron: '30 22 * * *' # 06:30 Beijing, after the tools site build
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # to see whether main still has more than one commit
+
+      - name: Download export from R2
+        run: |
+          aws s3 cp s3://mofcloud-tools-data/hub-export.tgz hub-export.tgz \
+            --endpoint-url "https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          mkdir -p "$RUNNER_TEMP/export" && tar -xzf hub-export.tgz -C "$RUNNER_TEMP/export" && rm hub-export.tgz
+        env:
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+
+      - name: Build CSV/JSON
+        run: python3 -I scripts/build.py "$RUNNER_TEMP/export/.hub-export"
+
+      - name: Publish today's snapshot (one commit, one release)
+        run: |
+          git add -A data
+          if git diff --cached --quiet -- data ':!data/meta.json' && ! git rev-parse -q --verify HEAD^ >/dev/null; then
+            echo "no price changes"; exit 0
+          fi
+          day=$(date -u +%F)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # parentless commit with the current tree (index keeps every tracked file), replacing main
+          git checkout -q --orphan snapshot
+          git commit -q -m "data: $day"
+          git push -f origin HEAD:main
+          notes="Daily cloud price snapshot. Data from MofCloud (https://mofcloud.com/tools), CC BY 4.0."
+          # the CSVs too: release assets download as attachments (raw.githubusercontent opens as text),
+          # so the site's "Download" buttons use releases/latest/download/<file>
+          files="release/instance-regions.csv.gz data/instances.csv data/gpu-instances.csv data/disks.csv data/egress.csv data/bandwidth.csv data/public-ip.csv"
+          gh release delete "data-$day" --cleanup-tag -y 2>/dev/null || true # same-day rerun: retag on the new commit
+          gh release create "data-$day" $files --target main --title "Cloud prices $day" --notes "$notes" --latest
+          # keep only today's release
+          gh release list --limit 100 --json tagName -q '.[].tagName' | grep -vx "data-$day" \
+            | xargs -r -I{} gh release delete {} --cleanup-tag -y
+        env:
+          GH_TOKEN: ${{ github.token }}
